@@ -1,0 +1,2499 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="dishtv-epg" source-info-name="DishTV" source-info-url="https://www.dishtv.in">
+  <channel id="dishtv142637">
+    <display-name lang="hi">&amp; Pictures</display-name>
+    <url>https://www.dishtv.in</url>
+  </channel>
+  <channel id="dishtv142638">
+    <display-name lang="hi">&amp; Pictures HD</display-name>
+    <url>https://www.dishtv.in</url>
+  </channel>
+  <channel id="dishtv142640">
+    <display-name lang="hi">&amp;TV</display-name>
+    <url>https://www.dishtv.in</url>
+  </channel>
+  <channel id="dishtv142641">
+    <display-name lang="hi">&amp;TV HD</display-name>
+    <url>https://www.dishtv.in</url>
+  </channel>
+  <channel id="dishtv142495">
+    <display-name lang="hi">10TV</display-name>
+    <url>https://www.dishtv.in</url>
+  </channel>
+  <channel id="dishtv144431">
+    <display-name lang="hi">Zee 24 Ghanta</display-name>
+    <url>https://www.dishtv.in</url>
+  </channel>
+  <programme start="20260625061700 +0530" stop="20260625082500 +0530" channel="dishtv142637">
+    <title lang="en">Jail</title>
+    <desc lang="en">A false drug accusation by a friend destroys Parag's life. He struggles through prison, clinging to hope for legal assistance to prove his innocence.</desc>
+    <category lang="en">Film</category>
+    <icon src="https://dtil.tmsimg.com/assets/p7915405_v_h9_ab.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260625082500 +0530" stop="20260625091200 +0530" channel="dishtv142637">
+    <title lang="en">Bal Hanuman</title>
+    <desc lang="en">A mischievous Hanuman grows up to become a heroic being who fights all evil creatures and helps Lord Rama in rescuing Sita from Lanka.</desc>
+    <category lang="en">Film</category>
+    <icon src="https://dtil.tmsimg.com/assets/p10803513_b_h9_ad.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260625091200 +0530" stop="20260625112000 +0530" channel="dishtv142637">
+    <title lang="en">Raazi</title>
+    <desc lang="en">As diplomatic tensions rise in 1971, a daring Kashmiri woman walks the tightrope between marriage and duty, delving into the shadows of espionage to protect her motherland.</desc>
+    <category lang="en">Film</category>
+    <icon src="https://dtil.tmsimg.com/assets/p15470542_v_h9_ab.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260625112000 +0530" stop="20260625122600 +0530" channel="dishtv142637">
+    <title lang="en">Snake Island Python</title>
+    <desc lang="en">A group of explorers set out to search for a magical tree in the jungle and soon find a mysterious creature is waiting to attack them.</desc>
+    <category lang="en">Film</category>
+    <icon src="https://dtil.tmsimg.com/assets/p24838543_b_h9_ab.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260625122600 +0530" stop="20260625143000 +0530" channel="dishtv142637">
+    <title lang="en">Vaada</title>
+    <desc lang="en">Pooja ends her relationship with Karan because of his possessive nature. However, years later, they meet again after Pooja's blind husband Rahul befriends him.</desc>
+    <category lang="en">Film</category>
+    <icon src="https://dtil.tmsimg.com/assets/p86314_v_h9_aa.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260625143000 +0530" stop="20260625170700 +0530" channel="dishtv142637">
+    <title lang="en">Satyameva Jayate</title>
+    <desc lang="en">DCP Shivansh is given a case to arrest the man responsible for the deaths of corrupt police officers. He begins his search without realising the killer is none other than Vir, his younger brother.</desc>
+    <category lang="en">Film</category>
+    <icon src="https://dtil.tmsimg.com/assets/p15822184_v_h9_ab.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260625170700 +0530" stop="20260625191200 +0530" channel="dishtv142637">
+    <title lang="en">Coolie No. 1</title>
+    <desc lang="en">A matchmaker gets insulted by a rich and arrogant businessman. Later, he decides to take a revenge against the businessman by making his daughter fall in love with a porter.</desc>
+    <category lang="en">Film</category>
+    <icon src="https://dtil.tmsimg.com/assets/p19134691_v_h9_ab.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260625191200 +0530" stop="20260625223300 +0530" channel="dishtv142637">
+    <title lang="en">Krrish</title>
+    <desc lang="en">After discovering his father's truth, Krrish must reveal his superpowers to the world and becomes the masked superhero.</desc>
+    <category lang="en">Film</category>
+    <icon src="https://dtil.tmsimg.com/assets/p162876_v_h9_ac.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260625223300 +0530" stop="20260626010000 +0530" channel="dishtv142637">
+    <title lang="en">Mission Raniganj: The Great Bharat Rescue</title>
+    <desc lang="en">Mission Raniganj - 2023 - Mining engineer Jaswant Singh Gill leads a challenging rescue mission to save 65 miners trapped in a flooded coal mine.</desc>
+    <category lang="en">Film</category>
+    <icon src="https://dtil.tmsimg.com/assets/p25772603_b_h9_ab.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260626010000 +0530" stop="20260626033400 +0530" channel="dishtv142637">
+    <title lang="en">Wanted</title>
+    <desc lang="en">A sharpshooter is caught between a gangster who wants him dead since he knows too much, the police who want him for the information he holds and his girlfriend who yearns for him to mend his ways.</desc>
+    <category lang="en">Film</category>
+    <icon src="https://epg-garcenote-assets.s3.amazonaws.com/dishtvd2h/resources/assets/thumbnails/programs/default/default_880x660.png"/>
+  </programme>
+  <programme start="20260626033400 +0530" stop="20260626060300 +0530" channel="dishtv142637">
+    <title lang="en">Baaghi</title>
+    <desc lang="en">Determined to rescue his former love, the ruggedly handsome Ronny confronts his enemies with a flurry of powerful roundhouse kicks and bone-crushing punches.</desc>
+    <category lang="en">Film</category>
+    <icon src="https://dtil.tmsimg.com/assets/p12825343_v_h9_ac.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260626060300 +0530" stop="20260626080900 +0530" channel="dishtv142637">
+    <title lang="en">Naya Khoon</title>
+    <desc lang="en">Siblings Vikram and Seema have contrasting personalities. However, things take a turn when Seema decides to marry Anand, but her brother opposes her decision.</desc>
+    <category lang="en">Film</category>
+    <icon src="https://dtil.tmsimg.com/assets/p136162_b_h9_ae.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260626080900 +0530" stop="20260626094800 +0530" channel="dishtv142637">
+    <title lang="en">Ragini MMS 2</title>
+    <desc lang="en">A director's decision to film an erotic horror movie in a haunted house brings trouble when a spirit possesses the body of the lead actress.</desc>
+    <category lang="en">Film</category>
+    <icon src="https://dtil.tmsimg.com/assets/p10646643_v_h9_ab.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260626094800 +0530" stop="20260626113000 +0530" channel="dishtv142637">
+    <title lang="en">Kaanchi: The Unbreakable</title>
+    <desc lang="en">After witnessing the death of her lover, Kaanchi leaves the village and sets out to take revenge on the murderer, who is the son of an influential politician.</desc>
+    <category lang="en">Film</category>
+    <icon src="https://dtil.tmsimg.com/assets/p10732264_v_h9_aa.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260626113000 +0530" stop="20260626170600 +0530" channel="dishtv142637">
+    <title lang="en">Bachchhan Paandey</title>
+    <desc lang="en">To succeed in the film industry, Myra chooses Bachchhan Paandey, a notorious hooligan, as the main focus of her new movie. Things get complicated when the gangster decides to act in the film.</desc>
+    <category lang="en">Film</category>
+    <icon src="https://dtil.tmsimg.com/assets/p21637001_v_h9_af.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260626170600 +0530" stop="20260626191100 +0530" channel="dishtv142637">
+    <title lang="en">Coolie No. 1</title>
+    <desc lang="en">A matchmaker gets insulted by a rich and arrogant businessman. Later, he decides to take a revenge against the businessman by making his daughter fall in love with a porter.</desc>
+    <category lang="en">Film</category>
+    <icon src="https://dtil.tmsimg.com/assets/p19134691_v_h9_ab.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260626191100 +0530" stop="20260626220700 +0530" channel="dishtv142637">
+    <title lang="en">Laadla</title>
+    <desc lang="en">Raju, an upright union leader, can do anything at his wheelchair-bound mother's behest, even if it means breaking his own heart and giving in to a rude heiress.</desc>
+    <category lang="en">Film</category>
+    <icon src="https://dtil.tmsimg.com/assets/p63660_v_h9_ac.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260626220700 +0530" stop="20260627013000 +0530" channel="dishtv142637">
+    <title lang="en">The Hero: Love Story of a Spy</title>
+    <desc lang="en">Arun Khanna, an Indian spy, collaborates with Reshma to stop a nuclear attack. However, Reshma's identity is compromised during her undercover mission in Pakistan.</desc>
+    <category lang="en">Film</category>
+    <icon src="https://dtil.tmsimg.com/assets/p81008_v_h9_aa.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260627013000 +0530" stop="20260627035600 +0530" channel="dishtv142637">
+    <title lang="en">Dabangg</title>
+    <desc lang="en">Chulbul Pandey, a police officer, battles a corrupt political leader, Cheddi Singh, who strains Chulbul's relationship with his step-brother.</desc>
+    <category lang="en">Film</category>
+    <icon src="https://dtil.tmsimg.com/assets/p8269619_v_h9_ae.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260627035600 +0530" stop="20260627073000 +0530" channel="dishtv142637">
+    <title lang="en">Khoonkhaar</title>
+    <desc lang="en">Gagan, a brave young man, is unable to be with Sweety, his true love, due to her parents' disapproval of him. However, he vows to protect her after unknowingly saving her from gangsters.</desc>
+    <category lang="en">Film</category>
+    <icon src="https://dtil.tmsimg.com/assets/p14408699_v_h9_ab.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260625063300 +0530" stop="20260625090600 +0530" channel="dishtv142638">
+    <title lang="en">Jail</title>
+    <desc lang="en">A false drug accusation by a friend destroys Parag's life. He struggles through prison, clinging to hope for legal assistance to prove his innocence.</desc>
+    <category lang="en">Film</category>
+    <icon src="https://dtil.tmsimg.com/assets/p7915405_v_h9_ab.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260625090600 +0530" stop="20260625113000 +0530" channel="dishtv142638">
+    <title lang="en">Raazi</title>
+    <desc lang="en">As diplomatic tensions rise in 1971, a daring Kashmiri woman walks the tightrope between marriage and duty, delving into the shadows of espionage to protect her motherland.</desc>
+    <category lang="en">Film</category>
+    <icon src="https://dtil.tmsimg.com/assets/p15470542_v_h9_ab.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260625113000 +0530" stop="20260625135800 +0530" channel="dishtv142638">
+    <title lang="en">Vaada</title>
+    <desc lang="en">Pooja ends her relationship with Karan because of his possessive nature. However, years later, they meet again after Pooja's blind husband Rahul befriends him.</desc>
+    <category lang="en">Film</category>
+    <icon src="https://dtil.tmsimg.com/assets/p86314_v_h9_aa.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260625135800 +0530" stop="20260625164300 +0530" channel="dishtv142638">
+    <title lang="en">Satyameva Jayate</title>
+    <desc lang="en">DCP Shivansh is given a case to arrest the man responsible for the deaths of corrupt police officers. He begins his search without realising the killer is none other than Vir, his younger brother.</desc>
+    <category lang="en">Film</category>
+    <icon src="https://dtil.tmsimg.com/assets/p15822184_v_h9_ab.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260625164300 +0530" stop="20260625193300 +0530" channel="dishtv142638">
+    <title lang="en">Coolie No. 1</title>
+    <desc lang="en">A matchmaker sets out to teach Hoshiyar Chand a lesson while hilarity ensues when he asks Raju, a coolie, to pretend to be a millionaire.</desc>
+    <category lang="en">Film</category>
+    <icon src="https://dtil.tmsimg.com/assets/p79470_v_h9_ab.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260625193300 +0530" stop="20260625221600 +0530" channel="dishtv142638">
+    <title lang="en">Good Newwz</title>
+    <desc lang="en">Two married couples are unsuccessful in conceiving and seek medical treatment. However, they end up in a complicated situation after their doctor makes a blunder.</desc>
+    <category lang="en">Film</category>
+    <icon src="https://dtil.tmsimg.com/assets/p17627667_b_h9_aa.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260625221600 +0530" stop="20260626010000 +0530" channel="dishtv142638">
+    <title lang="en">Mission Raniganj: The Great Bharat Rescue</title>
+    <desc lang="en">Mission Raniganj - 2023 - Mining engineer Jaswant Singh Gill leads a challenging rescue mission to save 65 miners trapped in a flooded coal mine.</desc>
+    <category lang="en">Film</category>
+    <icon src="https://dtil.tmsimg.com/assets/p25772603_b_h9_ab.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260626010000 +0530" stop="20260626040000 +0530" channel="dishtv142638">
+    <title lang="en">Wanted</title>
+    <desc lang="en">A sharpshooter is caught between a gangster who wants him dead since he knows too much, the police who want him for the information he holds and his girlfriend who yearns for him to mend his ways.</desc>
+    <category lang="en">Film</category>
+    <icon src="https://epg-garcenote-assets.s3.amazonaws.com/dishtvd2h/resources/assets/thumbnails/programs/default/default_880x660.png"/>
+  </programme>
+  <programme start="20260626040000 +0530" stop="20260626063300 +0530" channel="dishtv142638">
+    <title lang="en">Baaghi</title>
+    <desc lang="en">Raja loves Rani, but she commits suicide after falling prey to Manmohan, who wants her at any cost. A devastated Raja turns to the world of crime and becomes a professional killer.</desc>
+    <category lang="en">Film</category>
+    <icon src="https://dtil.tmsimg.com/assets/p78158_v_h9_aa.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260626063300 +0530" stop="20260626081800 +0530" channel="dishtv142638">
+    <title lang="en">Oh My God</title>
+    <desc lang="en">After Kanji, an atheist, loses his shop in an earthquake, he decides to sue God. Later, society condemns him for his blasphemy, while Lord Krishna himself becomes Kanji's saviour.</desc>
+    <category lang="en">Film</category>
+    <icon src="https://dtil.tmsimg.com/assets/p9478097_v_h9_ac.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260626081800 +0530" stop="20260626100500 +0530" channel="dishtv142638">
+    <title lang="en">Kaanchi: The Unbreakable</title>
+    <desc lang="en">After witnessing the death of her lover, Kaanchi leaves the village and sets out to take revenge on the murderer, who is the son of an influential politician.</desc>
+    <category lang="en">Film</category>
+    <icon src="https://dtil.tmsimg.com/assets/p10732264_v_h9_aa.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260626100500 +0530" stop="20260626113000 +0530" channel="dishtv142638">
+    <title lang="en">Boom</title>
+    <desc lang="en">Three clueless models bumble their way into the Bombay underworld after hilariously botching a diamond smuggling deal to the Middle East.</desc>
+    <category lang="en">Film</category>
+    <icon src="https://dtil.tmsimg.com/assets/p82362_b_h9_ad.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260626113000 +0530" stop="20260626170600 +0530" channel="dishtv142638">
+    <title lang="en">Bachchhan Paandey</title>
+    <desc lang="en">To succeed in the film industry, Myra chooses Bachchhan Paandey, a notorious hooligan, as the main focus of her new movie. Things get complicated when the gangster decides to act in the film.</desc>
+    <category lang="en">Film</category>
+    <icon src="https://dtil.tmsimg.com/assets/p21637001_v_h9_af.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260626170600 +0530" stop="20260626191100 +0530" channel="dishtv142638">
+    <title lang="en">Coolie No. 1</title>
+    <desc lang="en">A matchmaker sets out to teach Hoshiyar Chand a lesson while hilarity ensues when he asks Raju, a coolie, to pretend to be a millionaire.</desc>
+    <category lang="en">Film</category>
+    <icon src="https://dtil.tmsimg.com/assets/p79470_v_h9_ab.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260626191100 +0530" stop="20260626220700 +0530" channel="dishtv142638">
+    <title lang="en">Laadla</title>
+    <desc lang="en">Raju, an upright union leader, can do anything at his wheelchair-bound mother's behest, even if it means breaking his own heart and giving in to a rude heiress.</desc>
+    <category lang="en">Film</category>
+    <icon src="https://dtil.tmsimg.com/assets/p63660_v_h9_ac.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260626220700 +0530" stop="20260627013000 +0530" channel="dishtv142638">
+    <title lang="en">The Hero: Love Story of a Spy</title>
+    <desc lang="en">Arun Khanna, an Indian spy, collaborates with Reshma to stop a nuclear attack. However, Reshma's identity is compromised during her undercover mission in Pakistan.</desc>
+    <category lang="en">Film</category>
+    <icon src="https://dtil.tmsimg.com/assets/p81008_v_h9_aa.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260627013000 +0530" stop="20260627035600 +0530" channel="dishtv142638">
+    <title lang="en">Dabangg</title>
+    <desc lang="en">Chulbul Pandey, a police officer, battles a corrupt political leader, Cheddi Singh, who strains Chulbul's relationship with his step-brother.</desc>
+    <category lang="en">Film</category>
+    <icon src="https://dtil.tmsimg.com/assets/p8269619_v_h9_ae.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260627035600 +0530" stop="20260627073000 +0530" channel="dishtv142638">
+    <title lang="en">Khoonkhaar</title>
+    <desc lang="en">Gagan, a brave young man, is unable to be with Sweety, his true love, due to her parents' disapproval of him. However, he vows to protect her after unknowingly saving her from gangsters.</desc>
+    <category lang="en">Film</category>
+    <icon src="https://dtil.tmsimg.com/assets/p14408699_v_h9_ab.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260625053000 +0530" stop="20260625060000 +0530" channel="dishtv142640">
+    <title lang="en">Bhabi ji Ghar Par Hai!</title>
+    <desc lang="en">Vibhuti Narayan Mishra and Manmohan Tiwari live in the same neighbourhood in Kanpur. They both try to impress each other's wives but end up landing in peculiar situations.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://dtil.tmsimg.com/assets/p14130628_b_h9_af.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260625060000 +0530" stop="20260625063000 +0530" channel="dishtv142640">
+    <title lang="en">Bhabi ji Ghar Par Hai!</title>
+    <desc lang="en">Vibhuti Narayan Mishra and Manmohan Tiwari live in the same neighbourhood in Kanpur. They both try to impress each other's wives but end up landing in peculiar situations.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://dtil.tmsimg.com/assets/p14130628_b_h9_af.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260625063000 +0530" stop="20260625070000 +0530" channel="dishtv142640">
+    <title lang="en">Bhabi ji Ghar Par Hai!</title>
+    <desc lang="en">Tillu exposes Marjina's abuse and following Happu's advice, he tries to gather evidence but gets assaulted again. Finally, Anita offers a solution to help Tillu secure a divorce.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://dtil.tmsimg.com/assets/p14130628_b_h9_af.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260625070000 +0530" stop="20260625073000 +0530" channel="dishtv142640">
+    <title lang="en">Bhabi ji Ghar Par Hai!</title>
+    <desc lang="en">Tiwari insults Vibhuti in front of Anita and refuses to take Angoori shopping. Meanwhile, Prem asks Teeka and his friends to decorate the colony.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://dtil.tmsimg.com/assets/p14130628_b_h9_af.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260625073000 +0530" stop="20260625080000 +0530" channel="dishtv142640">
+    <title lang="en">Bhabi ji Ghar Par Hai!</title>
+    <desc lang="en">Anita is left delighted when she finds out that Vibhuti has managed to save money.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://dtil.tmsimg.com/assets/p14130628_b_h9_af.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260625080000 +0530" stop="20260625083000 +0530" channel="dishtv142640">
+    <title lang="en">Bhabi ji Ghar Par Hai!</title>
+    <desc lang="en">When Tiwari realises that Vibhuti has tricked him, the former reprimands him.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://dtil.tmsimg.com/assets/p14130628_b_h9_af.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260625083000 +0530" stop="20260625090000 +0530" channel="dishtv142640">
+    <title lang="en">Bhabi ji Ghar Par Hai!</title>
+    <desc lang="en">Tiwari tries to get his money back from Vibhuti but fails miserably.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://dtil.tmsimg.com/assets/p14130628_b_h9_af.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260625090000 +0530" stop="20260625093000 +0530" channel="dishtv142640">
+    <title lang="en">Bhabi ji Ghar Par Hai!</title>
+    <desc lang="en">Tiwari accuses Vibhuti of cheating on Anita, but she is reluctant to believe him.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://dtil.tmsimg.com/assets/p14130628_b_h9_af.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260625093000 +0530" stop="20260625100000 +0530" channel="dishtv142640">
+    <title lang="en">Bhabi ji Ghar Par Hai!</title>
+    <desc lang="en">When Anita expresses her disappointment towards Vibhuti's friend, Prem, Vibhuti tries to defend him. Later, Vibhuti finds out that Prem is dead.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://dtil.tmsimg.com/assets/p14130628_b_h9_af.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260625100000 +0530" stop="20260625103000 +0530" channel="dishtv142640">
+    <title lang="en">Bhabi ji Ghar Par Hai!</title>
+    <desc lang="en">After finding out that Vibhuti's best friend, Prem, is dead, everyone gathers in an attempt to share their thoughts about him.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://dtil.tmsimg.com/assets/p14130628_b_h9_af.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260625103000 +0530" stop="20260625110000 +0530" channel="dishtv142640">
+    <title lang="en">Bhabi ji Ghar Par Hai!</title>
+    <desc lang="en">Vibhuti Misra and Manmohan Tiwari live in the same neighbourhood. They both try to impress each other's wives but end up landing in peculiar situations.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://dtil.tmsimg.com/assets/p14130628_b_h9_af.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260625110000 +0530" stop="20260625113700 +0530" channel="dishtv142640">
+    <title lang="en">Bhabi ji Ghar Par Hai!</title>
+    <desc lang="en">When Tiwari tries to comfort a crestfallen Vibhuti, the latter is left infuriated. Anita, on the other hand, organises a party.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://dtil.tmsimg.com/assets/p14130628_b_h9_af.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260625113700 +0530" stop="20260625120000 +0530" channel="dishtv142640">
+    <title lang="en">Bhabi ji Ghar Par Hai!</title>
+    <desc lang="en">Tiwari finds out from Angoori the real reason behind Prem trying to hide. Later, when Prem meets Vibhuti, the latter slaps him.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://dtil.tmsimg.com/assets/p14130628_b_h9_af.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260625120000 +0530" stop="20260625122700 +0530" channel="dishtv142640">
+    <title lang="en">Bhabi ji Ghar Par Hai!</title>
+    <desc lang="en">Tiwari is left delighted when he receives a hefty order from Agarwal.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://dtil.tmsimg.com/assets/p14130628_b_h9_af.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260625122700 +0530" stop="20260625132400 +0530" channel="dishtv142640">
+    <title lang="en">Comedy Circus Ke Ajoobe</title>
+    <desc lang="en">Various renowned celebrities team-up with standup comedians to perform hilarious and satirical skits, competing with one another to take home the winning title.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://dtil.tmsimg.com/assets/p9457483_b_h9_aa.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260625132400 +0530" stop="20260625135300 +0530" channel="dishtv142640">
+    <title lang="en">Happu Ki Ultan Paltan</title>
+    <desc lang="en">Amma plots to keep Rajesh and Happu separated despite Rajesh's desire to spend time with him. Acting diplomatically, Happu asks Amma to join them, which disappoints Rajesh.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://dtil.tmsimg.com/assets/p16695595_b_h9_ae.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260625135300 +0530" stop="20260625143000 +0530" channel="dishtv142640">
+    <title lang="en">Bhabi ji Ghar Par Hai!</title>
+    <desc lang="en">In an attempt to socialise more, Anita invites Angoori and Manmohan over for dinner. Meanwhile, Vibhuti makes arrangements to cook in an effort to impress Angoori.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://dtil.tmsimg.com/assets/p14130628_b_h9_af.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260625143000 +0530" stop="20260625150000 +0530" channel="dishtv142640">
+    <title lang="en">Bhabi ji Ghar Par Hai!</title>
+    <desc lang="en">After writer Kalavati Sharma advises Anita and Angoori to monitor their husbands, they question them about women's perfumes. Meanwhile, Teeka and his friends launch an extortion business.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://dtil.tmsimg.com/assets/p14130628_b_h9_af.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260625150000 +0530" stop="20260625153000 +0530" channel="dishtv142640">
+    <title lang="en">Bhabi ji Ghar Par Hai!</title>
+    <desc lang="en">After Saxena sprays women's perfume on Tiwari and Vibhuti, Kalavati doubts their intentions. On Prem's advice, the duo visits Baba Komalnath, while Saxena asks Tillu and Malkhan to break his leg.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://dtil.tmsimg.com/assets/p14130628_b_h9_af.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260625153000 +0530" stop="20260625160000 +0530" channel="dishtv142640">
+    <title lang="en">Bhabi ji Ghar Par Hai!</title>
+    <desc lang="en">After getting outnumbered by thieves, Vibhuti lies to Anita that he was with a made-up friend. Suspecting a lie, Anita and Angoori investigate, while Ammaji thrashes Tiwari to get the truth.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://dtil.tmsimg.com/assets/p14130628_b_h9_af.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260625160000 +0530" stop="20260625163000 +0530" channel="dishtv142640">
+    <title lang="en">Bhabi ji Ghar Par Hai!</title>
+    <desc lang="en">When Tiwari and Vibhuti suspect that their secret can be revealed, they are left tensed.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://dtil.tmsimg.com/assets/p14130628_b_h9_af.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260625163000 +0530" stop="20260625170000 +0530" channel="dishtv142640">
+    <title lang="en">Bhabi ji Ghar Par Hai!</title>
+    <desc lang="en">After Tiwari and Vibhuti bring Gupta home and reveal the truth to their wives, Happu arrives to confiscate the looted goods. While Anita and Angoori console their husbands, Happu shuts down T Company.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://dtil.tmsimg.com/assets/p14130628_b_h9_af.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260625170000 +0530" stop="20260625173000 +0530" channel="dishtv142640">
+    <title lang="en">Bhabi ji Ghar Par Hai!</title>
+    <desc lang="en">After Malang Baba forecasts Angoori's death in an accident involving three boys, Vibhuti fears for her life when he sees her new scooter. Later, Vibhuti stops Teeka and friends from driving.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://dtil.tmsimg.com/assets/p14130628_b_h9_af.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260625173000 +0530" stop="20260625180000 +0530" channel="dishtv142640">
+    <title lang="en">Bhabi ji Ghar Par Hai!</title>
+    <desc lang="en">After Teeka and his friends leave with the vehicle, Vibhuti's desperate attempt to stop Angoori fails when Tillu hits her. Later, a protective Vibhuti warns Yamraj to stay away from her.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://dtil.tmsimg.com/assets/p14130628_b_h9_af.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260625180000 +0530" stop="20260625183000 +0530" channel="dishtv142640">
+    <title lang="en">Bhabi ji Ghar Par Hai!</title>
+    <desc lang="en">After Vibhuti tampers with Angoori's scooter, Tillu hits him with his vehicle. While Anita and Tiwari team up for a prank to win a contest, Vibhuti begs Yamraj to spare Angoori.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://dtil.tmsimg.com/assets/p14130628_b_h9_af.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260625183000 +0530" stop="20260625190000 +0530" channel="dishtv142640">
+    <title lang="en">Bhabi ji Ghar Par Hai!</title>
+    <desc lang="en">While Vibhuti rejoices at the news of Angoori being alive, Saxena reveals that Yamraj was just his friend Kallan. Later, a rickshaw strike forces Tiwari and Vibhuti to find ways to help their wives.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://dtil.tmsimg.com/assets/p14130628_b_h9_af.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260625190000 +0530" stop="20260625193000 +0530" channel="dishtv142640">
+    <title lang="en">Bhabi ji Ghar Par Hai!</title>
+    <desc lang="en">After Tiwari's prank causes Vibhuti to swallow the expensive ring, Dr. Gupta suggests surgery while Angoori recommends a decoction. Meanwhile, Prem hires Teeka and his friends to abduct Vibhuti.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://dtil.tmsimg.com/assets/p14130628_b_h9_af.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260625193000 +0530" stop="20260625200000 +0530" channel="dishtv142640">
+    <title lang="en">Bhabi ji Ghar Par Hai!</title>
+    <desc lang="en">After Tiwari and Angoori's concoction fails to help Vibhuti, Angoori calls Ammaji. Soon after, masked versions of Teeka and his friends abduct Vibhuti, prompting a furious reaction from Anita.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://dtil.tmsimg.com/assets/p14130628_b_h9_af.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260625200000 +0530" stop="20260625203000 +0530" channel="dishtv142640">
+    <title lang="en">Bhabi ji Ghar Par Hai!</title>
+    <desc lang="en">While Teeka attempts to extract the ring from Vibhuti, Happu returns him home. Teeka and his friends realize Prem orchestrated the abduction, as Anita, Tiwari, and Angoori feed Vibhuti another remedy.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://dtil.tmsimg.com/assets/p14130628_b_h9_af.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260625203000 +0530" stop="20260625210000 +0530" channel="dishtv142640">
+    <title lang="en">Bhabi ji Ghar Par Hai!</title>
+    <desc lang="en">After Vibhuti claims he flushed the ring, Tiwari successfully recovers it from the sewer, only for a jeweller to reveal it is fake. Later, Saxena compensates Teeka and his friends.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://dtil.tmsimg.com/assets/p14130628_b_h9_af.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260625210000 +0530" stop="20260625213000 +0530" channel="dishtv142640">
+    <title lang="en">Bhabi ji Ghar Par Hai!</title>
+    <desc lang="en">While Anita daydreams about currency notes raining down on her, Tiwari confesses his identity confusion to Angoori. Ammaji then demands that someone act as Tiwari's father for 15 days.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://dtil.tmsimg.com/assets/p14130628_b_h9_af.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260625213000 +0530" stop="20260625223000 +0530" channel="dishtv142640">
+    <title lang="en">Laal Ishq</title>
+    <desc lang="en">A witch lures Varsha with wishes to steal her spirit, but every granted desire costs a human life. To save her, Guruji shows Varsha a way to defeat the evil entity and break the curse.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://dtil.tmsimg.com/assets/p15638579_b_h9_aa.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260625223000 +0530" stop="20260625231600 +0530" channel="dishtv142640">
+    <title lang="en">Laal Ishq</title>
+    <desc lang="en">Suzanne develops romantic feelings for Thomas when he visits her bakery. However, Pratik cautions Suzanne against getting involved with Thomas.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://dtil.tmsimg.com/assets/p15638579_b_h9_aa.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260625231600 +0530" stop="20260625233700 +0530" channel="dishtv142640">
+    <title lang="en">Bhabi ji Ghar Par Hai!</title>
+    <desc lang="en">Manmohan's attempt to lure a rat accidentally attracts a snake. Meanwhile, he fears Angoori is becoming a serpentine creature after noticing changes in her appearance.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://dtil.tmsimg.com/assets/p14130628_b_h9_af.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260625233700 +0530" stop="20260626010200 +0530" channel="dishtv142640">
+    <title lang="en">Paramavatar Shri Krishna</title>
+    <desc lang="en">Drona privately admits to Arjuna that he was already fully aware of Duryodhana's malicious conspiracies. Later, Bheem inadvertently imparts a lesson that leaves a deep impression on his mind.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://dtil.tmsimg.com/assets/p14306001_b_h9_aa.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260626010200 +0530" stop="20260626020000 +0530" channel="dishtv142640">
+    <title lang="en">Vighnaharta Ganesh</title>
+    <desc lang="en">A newborn is discovered by the gods with his head pointing towards the south. Afterwards, Yamraj appears before Lord Vishnu, intending to take the child's life.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://dtil.tmsimg.com/assets/p14471825_b_h9_ab.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260626020000 +0530" stop="20260626025800 +0530" channel="dishtv142640">
+    <title lang="en">Bhabi ji Ghar Par Hai!</title>
+    <desc lang="en">Anita fumes at Happu for carrying rifle to hunt an innocent animal.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://dtil.tmsimg.com/assets/p14130628_b_h9_af.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260626025800 +0530" stop="20260626033000 +0530" channel="dishtv142640">
+    <title lang="en">Happu Ki Ultan Paltan</title>
+    <desc lang="en">The commissioner asks Happu to catch the culprit who hit him with his car. Later, Amma and Rajesh accidentally strike him again.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://dtil.tmsimg.com/assets/p16695595_b_h9_ae.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260626033000 +0530" stop="20260626035800 +0530" channel="dishtv142640">
+    <title lang="en">Happu Ki Ultan Paltan</title>
+    <desc lang="en">Amma and Rajesh get nervous thinking about the consequences of their actions. However, the commissioner ends up forgiving them.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://dtil.tmsimg.com/assets/p16695595_b_h9_ae.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260626035800 +0530" stop="20260626043000 +0530" channel="dishtv142640">
+    <title lang="en">Bhabi ji Ghar Par Hai!</title>
+    <desc lang="en">There is a bet between Tiwari and Angoori on who can control the house expenses efficiently. They divide 10,000 rupees among themselves and start on the plan.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://dtil.tmsimg.com/assets/p14130628_b_h9_af.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260626043000 +0530" stop="20260626053000 +0530" channel="dishtv142640">
+    <title lang="en">Bhabi ji Ghar Par Hai!</title>
+    <desc lang="en">Anita receives a letter from Babhuta telling her that he is enamoured by her. Later, Vibhuti apologises to Anita for doubting her love for him.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://dtil.tmsimg.com/assets/p14130628_b_h9_af.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260626053000 +0530" stop="20260626060000 +0530" channel="dishtv142640">
+    <title lang="en">Bhabi ji Ghar Par Hai!</title>
+    <desc lang="en">Tiwari is left delighted when he receives a hefty order from Agarwal.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://dtil.tmsimg.com/assets/p14130628_b_h9_af.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260626060000 +0530" stop="20260626063000 +0530" channel="dishtv142640">
+    <title lang="en">Bhabi ji Ghar Par Hai!</title>
+    <desc lang="en">When Tiwari starts conducting interviews, Vibhuti shows up to face the former's questions.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://dtil.tmsimg.com/assets/p14130628_b_h9_af.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260626063000 +0530" stop="20260626070000 +0530" channel="dishtv142640">
+    <title lang="en">Bhabi ji Ghar Par Hai!</title>
+    <desc lang="en">When Tiwari receives a hefty order, he sets up his own factory.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://dtil.tmsimg.com/assets/p14130628_b_h9_af.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260626070000 +0530" stop="20260626073000 +0530" channel="dishtv142640">
+    <title lang="en">Bhabi ji Ghar Par Hai!</title>
+    <desc lang="en">Vibhuti hears Tiwari and Prem plotting against the workers and joins their strike. Later, Prem and Tiwari attempt to bribe Vibhuti to betray the employees.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://dtil.tmsimg.com/assets/p14130628_b_h9_af.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260626073000 +0530" stop="20260626080000 +0530" channel="dishtv142640">
+    <title lang="en">Bhabi ji Ghar Par Hai!</title>
+    <desc lang="en">After Rocky thrashes Vibhuti claiming Anita ordered it, she returns home. Later, Anita demands apologies from Prem and Tiwari.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://dtil.tmsimg.com/assets/p14130628_b_h9_af.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260626080000 +0530" stop="20260626083000 +0530" channel="dishtv142640">
+    <title lang="en">Bhabi ji Ghar Par Hai!</title>
+    <desc lang="en">After writer Kalavati Sharma advises Anita and Angoori to monitor their husbands, they question them about women's perfumes. Meanwhile, Teeka and his friends launch an extortion business.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://dtil.tmsimg.com/assets/p14130628_b_h9_af.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260626083000 +0530" stop="20260626090000 +0530" channel="dishtv142640">
+    <title lang="en">Bhabi ji Ghar Par Hai!</title>
+    <desc lang="en">After Saxena sprays women's perfume on Tiwari and Vibhuti, Kalavati doubts their intentions. On Prem's advice, the duo visits Baba Komalnath, while Saxena asks Tillu and Malkhan to break his leg.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://dtil.tmsimg.com/assets/p14130628_b_h9_af.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260626090000 +0530" stop="20260626093000 +0530" channel="dishtv142640">
+    <title lang="en">Bhabi ji Ghar Par Hai!</title>
+    <desc lang="en">After getting outnumbered by thieves, Vibhuti lies to Anita that he was with a made-up friend. Suspecting a lie, Anita and Angoori investigate, while Ammaji thrashes Tiwari to get the truth.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://dtil.tmsimg.com/assets/p14130628_b_h9_af.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260626093000 +0530" stop="20260626100000 +0530" channel="dishtv142640">
+    <title lang="en">Bhabi ji Ghar Par Hai!</title>
+    <desc lang="en">When Tiwari and Vibhuti suspect that their secret can be revealed, they are left tensed.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://dtil.tmsimg.com/assets/p14130628_b_h9_af.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260626100000 +0530" stop="20260626103000 +0530" channel="dishtv142640">
+    <title lang="en">Bhabi ji Ghar Par Hai!</title>
+    <desc lang="en">After Tiwari and Vibhuti bring Gupta home and reveal the truth to their wives, Happu arrives to confiscate the looted goods. While Anita and Angoori console their husbands, Happu shuts down T Company.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://dtil.tmsimg.com/assets/p14130628_b_h9_af.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260626103000 +0530" stop="20260626110000 +0530" channel="dishtv142640">
+    <title lang="en">Bhabi ji Ghar Par Hai!</title>
+    <desc lang="en">After Malang Baba forecasts Angoori's death in an accident involving three boys, Vibhuti fears for her life when he sees her new scooter. Later, Vibhuti stops Teeka and friends from driving.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://dtil.tmsimg.com/assets/p14130628_b_h9_af.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260626110000 +0530" stop="20260626113800 +0530" channel="dishtv142640">
+    <title lang="en">Bhabi ji Ghar Par Hai!</title>
+    <desc lang="en">After Teeka and his friends leave with the vehicle, Vibhuti's desperate attempt to stop Angoori fails when Tillu hits her. Later, a protective Vibhuti warns Yamraj to stay away from her.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://dtil.tmsimg.com/assets/p14130628_b_h9_af.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260626113800 +0530" stop="20260626120000 +0530" channel="dishtv142640">
+    <title lang="en">Bhabi ji Ghar Par Hai!</title>
+    <desc lang="en">After Vibhuti tampers with Angoori's scooter, Tillu hits him with his vehicle. While Anita and Tiwari team up for a prank to win a contest, Vibhuti begs Yamraj to spare Angoori.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://dtil.tmsimg.com/assets/p14130628_b_h9_af.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260626120000 +0530" stop="20260626123000 +0530" channel="dishtv142640">
+    <title lang="en">Bhabi ji Ghar Par Hai!</title>
+    <desc lang="en">While Anita calls Tiwari home to scare him, Yamraj informs Vibhuti that Angoori must die. After Tiwari claims Angoori is no more, a furious Vibhuti thrashes Teeka and his friends.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://dtil.tmsimg.com/assets/p14130628_b_h9_af.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260626123000 +0530" stop="20260626133000 +0530" channel="dishtv142640">
+    <title lang="en">Comedy Circus Ke Ajoobe</title>
+    <desc lang="en">Various renowned celebrities team-up with standup comedians to perform hilarious and satirical skits, competing with one another to take home the winning title.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://dtil.tmsimg.com/assets/p9457483_b_h9_aa.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260626133000 +0530" stop="20260626140000 +0530" channel="dishtv142640">
+    <title lang="en">Happu Ki Ultan Paltan</title>
+    <desc lang="en">Rajesh refuses to watch a film if Amma tags along. Consequently, Happu fakes an illness to deter her, leading Nargis and Amma to plan a joint outing.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://dtil.tmsimg.com/assets/p16695595_b_h9_ae.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260626140000 +0530" stop="20260626143000 +0530" channel="dishtv142640">
+    <title lang="en">Bhabi ji Ghar Par Hai!</title>
+    <desc lang="en">There is a bet between Tiwari and Angoori on who can control the house expenses efficiently. They divide 10,000 rupees among themselves and start on the plan.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://dtil.tmsimg.com/assets/p14130628_b_h9_af.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260626143000 +0530" stop="20260626150000 +0530" channel="dishtv142640">
+    <title lang="en">Bhabi ji Ghar Par Hai!</title>
+    <desc lang="en">Vibhuti Narayan Mishra and Manmohan Tiwari live in the same neighbourhood in Kanpur. They both try to impress each other's wives but end up landing in peculiar situations.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://dtil.tmsimg.com/assets/p14130628_b_h9_af.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260626150000 +0530" stop="20260626153000 +0530" channel="dishtv142640">
+    <title lang="en">Bhabi ji Ghar Par Hai!</title>
+    <desc lang="en">Vibhuti Narayan Mishra and Manmohan Tiwari live in the same neighbourhood in Kanpur. They both try to impress each other's wives but end up landing in peculiar situations.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://dtil.tmsimg.com/assets/p14130628_b_h9_af.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260626153000 +0530" stop="20260626160000 +0530" channel="dishtv142640">
+    <title lang="en">Bhabi ji Ghar Par Hai!</title>
+    <desc lang="en">Vibhuti Narayan Mishra and Manmohan Tiwari live in the same neighbourhood in Kanpur. They both try to impress each other's wives but end up landing in peculiar situations.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://dtil.tmsimg.com/assets/p14130628_b_h9_af.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260626160000 +0530" stop="20260626163000 +0530" channel="dishtv142640">
+    <title lang="en">Bhabi ji Ghar Par Hai!</title>
+    <desc lang="en">Vibhuti Narayan Mishra and Manmohan Tiwari live in the same neighbourhood in Kanpur. They both try to impress each other's wives but end up landing in peculiar situations.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://dtil.tmsimg.com/assets/p14130628_b_h9_af.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260626163000 +0530" stop="20260626170000 +0530" channel="dishtv142640">
+    <title lang="en">Bhabi ji Ghar Par Hai!</title>
+    <desc lang="en">Vibhuti Narayan Mishra and Manmohan Tiwari live in the same neighbourhood in Kanpur. They both try to impress each other's wives but end up landing in peculiar situations.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://dtil.tmsimg.com/assets/p14130628_b_h9_af.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260626170000 +0530" stop="20260626173000 +0530" channel="dishtv142640">
+    <title lang="en">Bhabi ji Ghar Par Hai!</title>
+    <desc lang="en">Vibhuti Narayan Mishra and Manmohan Tiwari live in the same neighbourhood in Kanpur. They both try to impress each other's wives but end up landing in peculiar situations.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://dtil.tmsimg.com/assets/p14130628_b_h9_af.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260626173000 +0530" stop="20260626180000 +0530" channel="dishtv142640">
+    <title lang="en">Bhabi ji Ghar Par Hai!</title>
+    <desc lang="en">Vibhuti Narayan Mishra and Manmohan Tiwari live in the same neighbourhood in Kanpur. They both try to impress each other's wives but end up landing in peculiar situations.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://dtil.tmsimg.com/assets/p14130628_b_h9_af.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260626180000 +0530" stop="20260626183000 +0530" channel="dishtv142640">
+    <title lang="en">Bhabi ji Ghar Par Hai!</title>
+    <desc lang="en">Vibhuti Narayan Mishra and Manmohan Tiwari live in the same neighbourhood in Kanpur. They both try to impress each other's wives but end up landing in peculiar situations.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://dtil.tmsimg.com/assets/p14130628_b_h9_af.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260626183000 +0530" stop="20260626190000 +0530" channel="dishtv142640">
+    <title lang="en">Bhabi ji Ghar Par Hai!</title>
+    <desc lang="en">Vibhuti Narayan Mishra and Manmohan Tiwari live in the same neighbourhood in Kanpur. They both try to impress each other's wives but end up landing in peculiar situations.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://dtil.tmsimg.com/assets/p14130628_b_h9_af.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260626190000 +0530" stop="20260626193000 +0530" channel="dishtv142640">
+    <title lang="en">Bhabi ji Ghar Par Hai!</title>
+    <desc lang="en">Vibhuti Narayan Mishra and Manmohan Tiwari live in the same neighbourhood in Kanpur. They both try to impress each other's wives but end up landing in peculiar situations.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://dtil.tmsimg.com/assets/p14130628_b_h9_af.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260626193000 +0530" stop="20260626200000 +0530" channel="dishtv142640">
+    <title lang="en">Bhabi ji Ghar Par Hai!</title>
+    <desc lang="en">Vibhuti Narayan Mishra and Manmohan Tiwari live in the same neighbourhood in Kanpur. They both try to impress each other's wives but end up landing in peculiar situations.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://dtil.tmsimg.com/assets/p14130628_b_h9_af.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260626200000 +0530" stop="20260626203000 +0530" channel="dishtv142640">
+    <title lang="en">Bhabi ji Ghar Par Hai!</title>
+    <desc lang="en">Vibhuti Narayan Mishra and Manmohan Tiwari live in the same neighbourhood in Kanpur. They both try to impress each other's wives but end up landing in peculiar situations.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://dtil.tmsimg.com/assets/p14130628_b_h9_af.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260626203000 +0530" stop="20260626210000 +0530" channel="dishtv142640">
+    <title lang="en">Bhabi ji Ghar Par Hai!</title>
+    <desc lang="en">Vibhuti Narayan Mishra and Manmohan Tiwari live in the same neighbourhood in Kanpur. They both try to impress each other's wives but end up landing in peculiar situations.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://dtil.tmsimg.com/assets/p14130628_b_h9_af.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260626210000 +0530" stop="20260626213000 +0530" channel="dishtv142640">
+    <title lang="en">Bhabi ji Ghar Par Hai!</title>
+    <desc lang="en">In an intoxicated state, Vibhuti tells Bhoorey Lal that he has caused Angoori to get pregnant. Later, Ammaji reveals her plot.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://dtil.tmsimg.com/assets/p14130628_b_h9_af.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260626213000 +0530" stop="20260626223000 +0530" channel="dishtv142640">
+    <title lang="en">Laal Ishq</title>
+    <desc lang="en">A selfish Jaggu gets transported to the world of deception upon opening the magical gift and a beast hounds him. Soon, he takes the crazy man's advice and plays the illusory game to get out of there.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://dtil.tmsimg.com/assets/p15638579_b_h9_aa.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260626223000 +0530" stop="20260626233000 +0530" channel="dishtv142640">
+    <title lang="en">Laal Ishq</title>
+    <desc lang="en">Vaibhav from the Archaeology Department finds a magical pot and the pot's spirit lures him by promising to fulfil his wishes. But, for every wish he fulfils, he kills one of Vaibhav's family members.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://dtil.tmsimg.com/assets/p15638579_b_h9_aa.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260626233000 +0530" stop="20260627010000 +0530" channel="dishtv142640">
+    <title lang="en">Paramavatar Shri Krishna</title>
+    <desc lang="en">Lord Krishna, once a naughty little child, grows up and embarks on a number of adventures to fight and eradicate evil forces and provide justice to all.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://dtil.tmsimg.com/assets/p14306001_b_h9_aa.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260627010000 +0530" stop="20260627020000 +0530" channel="dishtv142640">
+    <title lang="en">Vighnaharta Ganesh</title>
+    <desc lang="en">Although Ganesh is brought to life by Mahadev, Parvati declines him as her son since she feels he is unrecognisable. Afterwards, Mahadev apprises Ganesh of his identity.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://dtil.tmsimg.com/assets/p14471825_b_h9_ab.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260627020000 +0530" stop="20260627030000 +0530" channel="dishtv142640">
+    <title lang="en">Bhabi ji Ghar Par Hai!</title>
+    <desc lang="en">Angoori accidentally bumps into Saxena while going to a shop. Vibhuti slaps Saxena in order to impress Angoori; Saxena sneaks into Sharma House and beats up Manmohan instead of Vibhuti.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://dtil.tmsimg.com/assets/p14130628_b_h9_af.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260627030000 +0530" stop="20260627033000 +0530" channel="dishtv142640">
+    <title lang="en">Happu Ki Ultan Paltan</title>
+    <desc lang="en">Happu engages Rajjo in conversation but Rajjo soon realises that something is burning. She turns to discover that she had left the hot iron on Ammaji's sari, damaging it beyond repair.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://dtil.tmsimg.com/assets/p16695595_b_h9_ae.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260627033000 +0530" stop="20260627040000 +0530" channel="dishtv142640">
+    <title lang="en">Happu Ki Ultan Paltan</title>
+    <desc lang="en">Rajesh fears informing Amma about her burnt favorite saree. Meanwhile, Happu receives orders from the Commissioner to apprehend the thief who stole her chain.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://dtil.tmsimg.com/assets/p16695595_b_h9_ae.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260627040000 +0530" stop="20260627043000 +0530" channel="dishtv142640">
+    <title lang="en">Bhabi ji Ghar Par Hai!</title>
+    <desc lang="en">Vibhuti tries to help Angoori win the challenge by stealing supplies from his own house and keeping it in Angoori's refrigerator. Later, Manmohan learns that Anita has decided to challenge Vibhuti.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://dtil.tmsimg.com/assets/p14130628_b_h9_af.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260627043000 +0530" stop="20260627053000 +0530" channel="dishtv142640">
+    <title lang="en">Bhabi ji Ghar Par Hai!</title>
+    <desc lang="en">Anita fumes at Happu for carrying rifle to hunt an innocent animal.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://dtil.tmsimg.com/assets/p14130628_b_h9_af.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260625053000 +0530" stop="20260625060000 +0530" channel="dishtv142641">
+    <title lang="en">Bhabi ji Ghar Par Hai!</title>
+    <desc lang="en">Vibhuti Narayan Mishra and Manmohan Tiwari live in the same neighbourhood in Kanpur. They both try to impress each other's wives but end up landing in peculiar situations.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://dtil.tmsimg.com/assets/p14130628_b_h9_af.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260625060000 +0530" stop="20260625063000 +0530" channel="dishtv142641">
+    <title lang="en">Bhabi ji Ghar Par Hai!</title>
+    <desc lang="en">Vibhuti Narayan Mishra and Manmohan Tiwari live in the same neighbourhood in Kanpur. They both try to impress each other's wives but end up landing in peculiar situations.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://dtil.tmsimg.com/assets/p14130628_b_h9_af.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260625063000 +0530" stop="20260625070000 +0530" channel="dishtv142641">
+    <title lang="en">Bhabi ji Ghar Par Hai!</title>
+    <desc lang="en">Tillu exposes Marjina's abuse and following Happu's advice, he tries to gather evidence but gets assaulted again. Finally, Anita offers a solution to help Tillu secure a divorce.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://dtil.tmsimg.com/assets/p14130628_b_h9_af.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260625070000 +0530" stop="20260625073000 +0530" channel="dishtv142641">
+    <title lang="en">Bhabi ji Ghar Par Hai!</title>
+    <desc lang="en">Tiwari insults Vibhuti in front of Anita and refuses to take Angoori shopping. Meanwhile, Prem asks Teeka and his friends to decorate the colony.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://dtil.tmsimg.com/assets/p14130628_b_h9_af.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260625073000 +0530" stop="20260625080000 +0530" channel="dishtv142641">
+    <title lang="en">Bhabi ji Ghar Par Hai!</title>
+    <desc lang="en">Anita is left delighted when she finds out that Vibhuti has managed to save money.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://dtil.tmsimg.com/assets/p14130628_b_h9_af.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260625080000 +0530" stop="20260625083000 +0530" channel="dishtv142641">
+    <title lang="en">Bhabi ji Ghar Par Hai!</title>
+    <desc lang="en">When Tiwari realises that Vibhuti has tricked him, the former reprimands him.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://dtil.tmsimg.com/assets/p14130628_b_h9_af.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260625083000 +0530" stop="20260625090000 +0530" channel="dishtv142641">
+    <title lang="en">Bhabi ji Ghar Par Hai!</title>
+    <desc lang="en">Tiwari tries to get his money back from Vibhuti but fails miserably.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://dtil.tmsimg.com/assets/p14130628_b_h9_af.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260625090000 +0530" stop="20260625093000 +0530" channel="dishtv142641">
+    <title lang="en">Bhabi ji Ghar Par Hai!</title>
+    <desc lang="en">Tiwari accuses Vibhuti of cheating on Anita, but she is reluctant to believe him.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://dtil.tmsimg.com/assets/p14130628_b_h9_af.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260625093000 +0530" stop="20260625100000 +0530" channel="dishtv142641">
+    <title lang="en">Bhabi ji Ghar Par Hai!</title>
+    <desc lang="en">When Anita expresses her disappointment towards Vibhuti's friend, Prem, Vibhuti tries to defend him. Later, Vibhuti finds out that Prem is dead.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://dtil.tmsimg.com/assets/p14130628_b_h9_af.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260625100000 +0530" stop="20260625103000 +0530" channel="dishtv142641">
+    <title lang="en">Bhabi ji Ghar Par Hai!</title>
+    <desc lang="en">After finding out that Vibhuti's best friend, Prem, is dead, everyone gathers in an attempt to share their thoughts about him.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://dtil.tmsimg.com/assets/p14130628_b_h9_af.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260625103000 +0530" stop="20260625110000 +0530" channel="dishtv142641">
+    <title lang="en">Bhabi ji Ghar Par Hai!</title>
+    <desc lang="en">Vibhuti Misra and Manmohan Tiwari live in the same neighbourhood. They both try to impress each other's wives but end up landing in peculiar situations.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://dtil.tmsimg.com/assets/p14130628_b_h9_af.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260625110000 +0530" stop="20260625113000 +0530" channel="dishtv142641">
+    <title lang="en">Bhabi ji Ghar Par Hai!</title>
+    <desc lang="en">When Tiwari tries to comfort a crestfallen Vibhuti, the latter is left infuriated. Anita, on the other hand, organises a party.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://dtil.tmsimg.com/assets/p14130628_b_h9_af.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260625113000 +0530" stop="20260625115000 +0530" channel="dishtv142641">
+    <title lang="en">Bhabi ji Ghar Par Hai!</title>
+    <desc lang="en">Tiwari finds out from Angoori the real reason behind Prem trying to hide. Later, when Prem meets Vibhuti, the latter slaps him.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://dtil.tmsimg.com/assets/p14130628_b_h9_af.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260625115000 +0530" stop="20260625123300 +0530" channel="dishtv142641">
+    <title lang="en">Bhabi ji Ghar Par Hai!</title>
+    <desc lang="en">Tiwari is left delighted when he receives a hefty order from Agarwal.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://dtil.tmsimg.com/assets/p14130628_b_h9_af.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260625123300 +0530" stop="20260625133000 +0530" channel="dishtv142641">
+    <title lang="en">Comedy Circus Ke Ajoobe</title>
+    <desc lang="en">Various renowned celebrities team-up with standup comedians to perform hilarious and satirical skits, competing with one another to take home the winning title.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://dtil.tmsimg.com/assets/p9457483_b_h9_aa.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260625133000 +0530" stop="20260625135800 +0530" channel="dishtv142641">
+    <title lang="en">Happu Ki Ultan Paltan</title>
+    <desc lang="en">Amma plots to keep Rajesh and Happu separated despite Rajesh's desire to spend time with him. Acting diplomatically, Happu asks Amma to join them, which disappoints Rajesh.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://dtil.tmsimg.com/assets/p16695595_b_h9_ae.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260625135800 +0530" stop="20260625143000 +0530" channel="dishtv142641">
+    <title lang="en">Bhabi ji Ghar Par Hai!</title>
+    <desc lang="en">In an attempt to socialise more, Anita invites Angoori and Manmohan over for dinner. Meanwhile, Vibhuti makes arrangements to cook in an effort to impress Angoori.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://dtil.tmsimg.com/assets/p14130628_b_h9_af.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260625143000 +0530" stop="20260625150000 +0530" channel="dishtv142641">
+    <title lang="en">Bhabi ji Ghar Par Hai!</title>
+    <desc lang="en">After writer Kalavati Sharma advises Anita and Angoori to monitor their husbands, they question them about women's perfumes. Meanwhile, Teeka and his friends launch an extortion business.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://dtil.tmsimg.com/assets/p14130628_b_h9_af.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260625150000 +0530" stop="20260625153000 +0530" channel="dishtv142641">
+    <title lang="en">Bhabi ji Ghar Par Hai!</title>
+    <desc lang="en">After Saxena sprays women's perfume on Tiwari and Vibhuti, Kalavati doubts their intentions. On Prem's advice, the duo visits Baba Komalnath, while Saxena asks Tillu and Malkhan to break his leg.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://dtil.tmsimg.com/assets/p14130628_b_h9_af.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260625153000 +0530" stop="20260625160000 +0530" channel="dishtv142641">
+    <title lang="en">Bhabi ji Ghar Par Hai!</title>
+    <desc lang="en">After getting outnumbered by thieves, Vibhuti lies to Anita that he was with a made-up friend. Suspecting a lie, Anita and Angoori investigate, while Ammaji thrashes Tiwari to get the truth.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://dtil.tmsimg.com/assets/p14130628_b_h9_af.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260625160000 +0530" stop="20260625163000 +0530" channel="dishtv142641">
+    <title lang="en">Bhabi ji Ghar Par Hai!</title>
+    <desc lang="en">When Tiwari and Vibhuti suspect that their secret can be revealed, they are left tensed.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://dtil.tmsimg.com/assets/p14130628_b_h9_af.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260625163000 +0530" stop="20260625170000 +0530" channel="dishtv142641">
+    <title lang="en">Bhabi ji Ghar Par Hai!</title>
+    <desc lang="en">After Tiwari and Vibhuti bring Gupta home and reveal the truth to their wives, Happu arrives to confiscate the looted goods. While Anita and Angoori console their husbands, Happu shuts down T Company.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://dtil.tmsimg.com/assets/p14130628_b_h9_af.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260625170000 +0530" stop="20260625173000 +0530" channel="dishtv142641">
+    <title lang="en">Bhabi ji Ghar Par Hai!</title>
+    <desc lang="en">After Malang Baba forecasts Angoori's death in an accident involving three boys, Vibhuti fears for her life when he sees her new scooter. Later, Vibhuti stops Teeka and friends from driving.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://dtil.tmsimg.com/assets/p14130628_b_h9_af.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260625173000 +0530" stop="20260625180000 +0530" channel="dishtv142641">
+    <title lang="en">Bhabi ji Ghar Par Hai!</title>
+    <desc lang="en">After Teeka and his friends leave with the vehicle, Vibhuti's desperate attempt to stop Angoori fails when Tillu hits her. Later, a protective Vibhuti warns Yamraj to stay away from her.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://dtil.tmsimg.com/assets/p14130628_b_h9_af.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260625180000 +0530" stop="20260625181500 +0530" channel="dishtv142641">
+    <title lang="en">Bhabi ji Ghar Par Hai!</title>
+    <desc lang="en">After Vibhuti tampers with Angoori's scooter, Tillu hits him with his vehicle. While Anita and Tiwari team up for a prank to win a contest, Vibhuti begs Yamraj to spare Angoori.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://dtil.tmsimg.com/assets/p14130628_b_h9_af.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260625181500 +0530" stop="20260625183000 +0530" channel="dishtv142641">
+    <title lang="en">Bhabi ji Ghar Par Hai!</title>
+    <desc lang="en">While Anita calls Tiwari home to scare him, Yamraj informs Vibhuti that Angoori must die. After Tiwari claims Angoori is no more, a furious Vibhuti thrashes Teeka and his friends.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://dtil.tmsimg.com/assets/p14130628_b_h9_af.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260625183000 +0530" stop="20260625184500 +0530" channel="dishtv142641">
+    <title lang="en">Bhabi ji Ghar Par Hai!</title>
+    <desc lang="en">While Vibhuti rejoices at the news of Angoori being alive, Saxena reveals that Yamraj was just his friend Kallan. Later, a rickshaw strike forces Tiwari and Vibhuti to find ways to help their wives.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://dtil.tmsimg.com/assets/p14130628_b_h9_af.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260625184500 +0530" stop="20260625190000 +0530" channel="dishtv142641">
+    <title lang="en">Bhabi ji Ghar Par Hai!</title>
+    <desc lang="en">After lawyer Faqira informs Anita that she has inherited an expensive ring, the residents of Modern Colony attend her party to see it. Meanwhile, Teeka and his friends get ousted by their boss.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://dtil.tmsimg.com/assets/p14130628_b_h9_af.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260625190000 +0530" stop="20260625193000 +0530" channel="dishtv142641">
+    <title lang="en">Bhabi ji Ghar Par Hai!</title>
+    <desc lang="en">After Tiwari's prank causes Vibhuti to swallow the expensive ring, Dr. Gupta suggests surgery while Angoori recommends a decoction. Meanwhile, Prem hires Teeka and his friends to abduct Vibhuti.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://dtil.tmsimg.com/assets/p14130628_b_h9_af.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260625193000 +0530" stop="20260625200000 +0530" channel="dishtv142641">
+    <title lang="en">Bhabi ji Ghar Par Hai!</title>
+    <desc lang="en">After Tiwari and Angoori's concoction fails to help Vibhuti, Angoori calls Ammaji. Soon after, masked versions of Teeka and his friends abduct Vibhuti, prompting a furious reaction from Anita.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://dtil.tmsimg.com/assets/p14130628_b_h9_af.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260625200000 +0530" stop="20260625203000 +0530" channel="dishtv142641">
+    <title lang="en">Bhabi ji Ghar Par Hai!</title>
+    <desc lang="en">While Teeka attempts to extract the ring from Vibhuti, Happu returns him home. Teeka and his friends realize Prem orchestrated the abduction, as Anita, Tiwari, and Angoori feed Vibhuti another remedy.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://dtil.tmsimg.com/assets/p14130628_b_h9_af.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260625203000 +0530" stop="20260625210000 +0530" channel="dishtv142641">
+    <title lang="en">Bhabi ji Ghar Par Hai!</title>
+    <desc lang="en">After Vibhuti claims he flushed the ring, Tiwari successfully recovers it from the sewer, only for a jeweller to reveal it is fake. Later, Saxena compensates Teeka and his friends.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://dtil.tmsimg.com/assets/p14130628_b_h9_af.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260625210000 +0530" stop="20260625213000 +0530" channel="dishtv142641">
+    <title lang="en">Bhabi ji Ghar Par Hai!</title>
+    <desc lang="en">While Anita daydreams about currency notes raining down on her, Tiwari confesses his identity confusion to Angoori. Ammaji then demands that someone act as Tiwari's father for 15 days.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://dtil.tmsimg.com/assets/p14130628_b_h9_af.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260625213000 +0530" stop="20260625223000 +0530" channel="dishtv142641">
+    <title lang="en">Laal Ishq</title>
+    <desc lang="en">A witch lures Varsha with wishes to steal her spirit, but every granted desire costs a human life. To save her, Guruji shows Varsha a way to defeat the evil entity and break the curse.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://dtil.tmsimg.com/assets/p15638579_b_h9_aa.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260625223000 +0530" stop="20260625231100 +0530" channel="dishtv142641">
+    <title lang="en">Laal Ishq</title>
+    <desc lang="en">Suzanne develops romantic feelings for Thomas when he visits her bakery. However, Pratik cautions Suzanne against getting involved with Thomas.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://dtil.tmsimg.com/assets/p15638579_b_h9_aa.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260625231100 +0530" stop="20260625233100 +0530" channel="dishtv142641">
+    <title lang="en">Bhabi ji Ghar Par Hai!</title>
+    <desc lang="en">Vibhuti masquerades as an academic to instruct Angoori in English, yet Manmohan disapproves. Consequently, Vibhuti encounters numerous hurdles owing to Angoori's limited grasp of the language.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://dtil.tmsimg.com/assets/p14130628_b_h9_af.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260625233100 +0530" stop="20260626010000 +0530" channel="dishtv142641">
+    <title lang="en">Paramavatar Shri Krishna</title>
+    <desc lang="en">Drona privately admits to Arjuna that he was already fully aware of Duryodhana's malicious conspiracies. Later, Bheem inadvertently imparts a lesson that leaves a deep impression on his mind.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://dtil.tmsimg.com/assets/p14306001_b_h9_aa.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260626010000 +0530" stop="20260626014900 +0530" channel="dishtv142641">
+    <title lang="en">Vighnaharta Ganesh</title>
+    <desc lang="en">A newborn is discovered by the gods with his head pointing towards the south. Afterwards, Yamraj appears before Lord Vishnu, intending to take the child's life.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://dtil.tmsimg.com/assets/p14471825_b_h9_ab.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260626014900 +0530" stop="20260626030000 +0530" channel="dishtv142641">
+    <title lang="en">Bhabi ji Ghar Par Hai!</title>
+    <desc lang="en">Anita fumes at Happu for carrying rifle to hunt an innocent animal.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://dtil.tmsimg.com/assets/p14130628_b_h9_af.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260626030000 +0530" stop="20260626033000 +0530" channel="dishtv142641">
+    <title lang="en">Happu Ki Ultan Paltan</title>
+    <desc lang="en">The commissioner asks Happu to catch the culprit who hit him with his car. Later, Amma and Rajesh accidentally strike him again.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://dtil.tmsimg.com/assets/p16695595_b_h9_ae.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260626033000 +0530" stop="20260626040000 +0530" channel="dishtv142641">
+    <title lang="en">Happu Ki Ultan Paltan</title>
+    <desc lang="en">Amma and Rajesh get nervous thinking about the consequences of their actions. However, the commissioner ends up forgiving them.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://dtil.tmsimg.com/assets/p16695595_b_h9_ae.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260626040000 +0530" stop="20260626043000 +0530" channel="dishtv142641">
+    <title lang="en">Bhabi ji Ghar Par Hai!</title>
+    <desc lang="en">There is a bet between Tiwari and Angoori on who can control the house expenses efficiently. They divide 10,000 rupees among themselves and start on the plan.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://dtil.tmsimg.com/assets/p14130628_b_h9_af.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260626043000 +0530" stop="20260626053000 +0530" channel="dishtv142641">
+    <title lang="en">Bhabi ji Ghar Par Hai!</title>
+    <desc lang="en">Anita receives a letter from Babhuta telling her that he is enamoured by her. Later, Vibhuti apologises to Anita for doubting her love for him.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://dtil.tmsimg.com/assets/p14130628_b_h9_af.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260626053000 +0530" stop="20260626060000 +0530" channel="dishtv142641">
+    <title lang="en">Bhabi ji Ghar Par Hai!</title>
+    <desc lang="en">Tiwari is left delighted when he receives a hefty order from Agarwal.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://dtil.tmsimg.com/assets/p14130628_b_h9_af.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260626060000 +0530" stop="20260626063000 +0530" channel="dishtv142641">
+    <title lang="en">Bhabi ji Ghar Par Hai!</title>
+    <desc lang="en">When Tiwari starts conducting interviews, Vibhuti shows up to face the former's questions.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://dtil.tmsimg.com/assets/p14130628_b_h9_af.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260626063000 +0530" stop="20260626070000 +0530" channel="dishtv142641">
+    <title lang="en">Bhabi ji Ghar Par Hai!</title>
+    <desc lang="en">When Tiwari receives a hefty order, he sets up his own factory.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://dtil.tmsimg.com/assets/p14130628_b_h9_af.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260626070000 +0530" stop="20260626073000 +0530" channel="dishtv142641">
+    <title lang="en">Bhabi ji Ghar Par Hai!</title>
+    <desc lang="en">Vibhuti hears Tiwari and Prem plotting against the workers and joins their strike. Later, Prem and Tiwari attempt to bribe Vibhuti to betray the employees.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://dtil.tmsimg.com/assets/p14130628_b_h9_af.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260626073000 +0530" stop="20260626080000 +0530" channel="dishtv142641">
+    <title lang="en">Bhabi ji Ghar Par Hai!</title>
+    <desc lang="en">After Rocky thrashes Vibhuti claiming Anita ordered it, she returns home. Later, Anita demands apologies from Prem and Tiwari.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://dtil.tmsimg.com/assets/p14130628_b_h9_af.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260626080000 +0530" stop="20260626083000 +0530" channel="dishtv142641">
+    <title lang="en">Bhabi ji Ghar Par Hai!</title>
+    <desc lang="en">After writer Kalavati Sharma advises Anita and Angoori to monitor their husbands, they question them about women's perfumes. Meanwhile, Teeka and his friends launch an extortion business.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://dtil.tmsimg.com/assets/p14130628_b_h9_af.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260626083000 +0530" stop="20260626090000 +0530" channel="dishtv142641">
+    <title lang="en">Bhabi ji Ghar Par Hai!</title>
+    <desc lang="en">After Saxena sprays women's perfume on Tiwari and Vibhuti, Kalavati doubts their intentions. On Prem's advice, the duo visits Baba Komalnath, while Saxena asks Tillu and Malkhan to break his leg.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://dtil.tmsimg.com/assets/p14130628_b_h9_af.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260626090000 +0530" stop="20260626093000 +0530" channel="dishtv142641">
+    <title lang="en">Bhabi ji Ghar Par Hai!</title>
+    <desc lang="en">After getting outnumbered by thieves, Vibhuti lies to Anita that he was with a made-up friend. Suspecting a lie, Anita and Angoori investigate, while Ammaji thrashes Tiwari to get the truth.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://dtil.tmsimg.com/assets/p14130628_b_h9_af.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260626093000 +0530" stop="20260626100000 +0530" channel="dishtv142641">
+    <title lang="en">Bhabi ji Ghar Par Hai!</title>
+    <desc lang="en">When Tiwari and Vibhuti suspect that their secret can be revealed, they are left tensed.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://dtil.tmsimg.com/assets/p14130628_b_h9_af.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260626100000 +0530" stop="20260626103000 +0530" channel="dishtv142641">
+    <title lang="en">Bhabi ji Ghar Par Hai!</title>
+    <desc lang="en">After Tiwari and Vibhuti bring Gupta home and reveal the truth to their wives, Happu arrives to confiscate the looted goods. While Anita and Angoori console their husbands, Happu shuts down T Company.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://dtil.tmsimg.com/assets/p14130628_b_h9_af.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260626103000 +0530" stop="20260626110000 +0530" channel="dishtv142641">
+    <title lang="en">Bhabi ji Ghar Par Hai!</title>
+    <desc lang="en">After Malang Baba forecasts Angoori's death in an accident involving three boys, Vibhuti fears for her life when he sees her new scooter. Later, Vibhuti stops Teeka and friends from driving.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://dtil.tmsimg.com/assets/p14130628_b_h9_af.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260626110000 +0530" stop="20260626113000 +0530" channel="dishtv142641">
+    <title lang="en">Bhabi ji Ghar Par Hai!</title>
+    <desc lang="en">After Teeka and his friends leave with the vehicle, Vibhuti's desperate attempt to stop Angoori fails when Tillu hits her. Later, a protective Vibhuti warns Yamraj to stay away from her.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://dtil.tmsimg.com/assets/p14130628_b_h9_af.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260626113000 +0530" stop="20260626120000 +0530" channel="dishtv142641">
+    <title lang="en">Bhabi ji Ghar Par Hai!</title>
+    <desc lang="en">After Vibhuti tampers with Angoori's scooter, Tillu hits him with his vehicle. While Anita and Tiwari team up for a prank to win a contest, Vibhuti begs Yamraj to spare Angoori.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://dtil.tmsimg.com/assets/p14130628_b_h9_af.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260626120000 +0530" stop="20260626123000 +0530" channel="dishtv142641">
+    <title lang="en">Bhabi ji Ghar Par Hai!</title>
+    <desc lang="en">While Anita calls Tiwari home to scare him, Yamraj informs Vibhuti that Angoori must die. After Tiwari claims Angoori is no more, a furious Vibhuti thrashes Teeka and his friends.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://dtil.tmsimg.com/assets/p14130628_b_h9_af.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260626123000 +0530" stop="20260626133000 +0530" channel="dishtv142641">
+    <title lang="en">Comedy Circus Ke Ajoobe</title>
+    <desc lang="en">Various renowned celebrities team-up with standup comedians to perform hilarious and satirical skits, competing with one another to take home the winning title.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://dtil.tmsimg.com/assets/p9457483_b_h9_aa.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260626133000 +0530" stop="20260626140000 +0530" channel="dishtv142641">
+    <title lang="en">Happu Ki Ultan Paltan</title>
+    <desc lang="en">Rajesh refuses to watch a film if Amma tags along. Consequently, Happu fakes an illness to deter her, leading Nargis and Amma to plan a joint outing.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://dtil.tmsimg.com/assets/p16695595_b_h9_ae.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260626140000 +0530" stop="20260626143000 +0530" channel="dishtv142641">
+    <title lang="en">Bhabi ji Ghar Par Hai!</title>
+    <desc lang="en">There is a bet between Tiwari and Angoori on who can control the house expenses efficiently. They divide 10,000 rupees among themselves and start on the plan.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://dtil.tmsimg.com/assets/p14130628_b_h9_af.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260626143000 +0530" stop="20260626150000 +0530" channel="dishtv142641">
+    <title lang="en">Bhabi ji Ghar Par Hai!</title>
+    <desc lang="en">Vibhuti Narayan Mishra and Manmohan Tiwari live in the same neighbourhood in Kanpur. They both try to impress each other's wives but end up landing in peculiar situations.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://dtil.tmsimg.com/assets/p14130628_b_h9_af.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260626150000 +0530" stop="20260626153000 +0530" channel="dishtv142641">
+    <title lang="en">Bhabi ji Ghar Par Hai!</title>
+    <desc lang="en">Vibhuti Narayan Mishra and Manmohan Tiwari live in the same neighbourhood in Kanpur. They both try to impress each other's wives but end up landing in peculiar situations.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://dtil.tmsimg.com/assets/p14130628_b_h9_af.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260626153000 +0530" stop="20260626160000 +0530" channel="dishtv142641">
+    <title lang="en">Bhabi ji Ghar Par Hai!</title>
+    <desc lang="en">Vibhuti Narayan Mishra and Manmohan Tiwari live in the same neighbourhood in Kanpur. They both try to impress each other's wives but end up landing in peculiar situations.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://dtil.tmsimg.com/assets/p14130628_b_h9_af.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260626160000 +0530" stop="20260626163000 +0530" channel="dishtv142641">
+    <title lang="en">Bhabi ji Ghar Par Hai!</title>
+    <desc lang="en">Vibhuti Narayan Mishra and Manmohan Tiwari live in the same neighbourhood in Kanpur. They both try to impress each other's wives but end up landing in peculiar situations.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://dtil.tmsimg.com/assets/p14130628_b_h9_af.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260626163000 +0530" stop="20260626170000 +0530" channel="dishtv142641">
+    <title lang="en">Bhabi ji Ghar Par Hai!</title>
+    <desc lang="en">Vibhuti Narayan Mishra and Manmohan Tiwari live in the same neighbourhood in Kanpur. They both try to impress each other's wives but end up landing in peculiar situations.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://dtil.tmsimg.com/assets/p14130628_b_h9_af.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260626170000 +0530" stop="20260626173000 +0530" channel="dishtv142641">
+    <title lang="en">Bhabi ji Ghar Par Hai!</title>
+    <desc lang="en">Vibhuti Narayan Mishra and Manmohan Tiwari live in the same neighbourhood in Kanpur. They both try to impress each other's wives but end up landing in peculiar situations.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://dtil.tmsimg.com/assets/p14130628_b_h9_af.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260626173000 +0530" stop="20260626180000 +0530" channel="dishtv142641">
+    <title lang="en">Bhabi ji Ghar Par Hai!</title>
+    <desc lang="en">Vibhuti Narayan Mishra and Manmohan Tiwari live in the same neighbourhood in Kanpur. They both try to impress each other's wives but end up landing in peculiar situations.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://dtil.tmsimg.com/assets/p14130628_b_h9_af.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260626180000 +0530" stop="20260626181500 +0530" channel="dishtv142641">
+    <title lang="en">Bhabi ji Ghar Par Hai!</title>
+    <desc lang="en">Vibhuti Narayan Mishra and Manmohan Tiwari live in the same neighbourhood in Kanpur. They both try to impress each other's wives but end up landing in peculiar situations.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://dtil.tmsimg.com/assets/p14130628_b_h9_af.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260626181500 +0530" stop="20260626183000 +0530" channel="dishtv142641">
+    <title lang="en">Bhabi ji Ghar Par Hai!</title>
+    <desc lang="en">Vibhuti Narayan Mishra and Manmohan Tiwari live in the same neighbourhood in Kanpur. They both try to impress each other's wives but end up landing in peculiar situations.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://dtil.tmsimg.com/assets/p14130628_b_h9_af.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260626183000 +0530" stop="20260626184500 +0530" channel="dishtv142641">
+    <title lang="en">Bhabi ji Ghar Par Hai!</title>
+    <desc lang="en">Vibhuti Narayan Mishra and Manmohan Tiwari live in the same neighbourhood in Kanpur. They both try to impress each other's wives but end up landing in peculiar situations.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://dtil.tmsimg.com/assets/p14130628_b_h9_af.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260626184500 +0530" stop="20260626190000 +0530" channel="dishtv142641">
+    <title lang="en">Bhabi ji Ghar Par Hai!</title>
+    <desc lang="en">Vibhuti Narayan Mishra and Manmohan Tiwari live in the same neighbourhood in Kanpur. They both try to impress each other's wives but end up landing in peculiar situations.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://dtil.tmsimg.com/assets/p14130628_b_h9_af.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260626190000 +0530" stop="20260626193000 +0530" channel="dishtv142641">
+    <title lang="en">Bhabi ji Ghar Par Hai!</title>
+    <desc lang="en">Vibhuti Narayan Mishra and Manmohan Tiwari live in the same neighbourhood in Kanpur. They both try to impress each other's wives but end up landing in peculiar situations.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://dtil.tmsimg.com/assets/p14130628_b_h9_af.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260626193000 +0530" stop="20260626200000 +0530" channel="dishtv142641">
+    <title lang="en">Bhabi ji Ghar Par Hai!</title>
+    <desc lang="en">Vibhuti Narayan Mishra and Manmohan Tiwari live in the same neighbourhood in Kanpur. They both try to impress each other's wives but end up landing in peculiar situations.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://dtil.tmsimg.com/assets/p14130628_b_h9_af.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260626200000 +0530" stop="20260626203000 +0530" channel="dishtv142641">
+    <title lang="en">Bhabi ji Ghar Par Hai!</title>
+    <desc lang="en">Vibhuti Narayan Mishra and Manmohan Tiwari live in the same neighbourhood in Kanpur. They both try to impress each other's wives but end up landing in peculiar situations.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://dtil.tmsimg.com/assets/p14130628_b_h9_af.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260626203000 +0530" stop="20260626210000 +0530" channel="dishtv142641">
+    <title lang="en">Bhabi ji Ghar Par Hai!</title>
+    <desc lang="en">Vibhuti Narayan Mishra and Manmohan Tiwari live in the same neighbourhood in Kanpur. They both try to impress each other's wives but end up landing in peculiar situations.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://dtil.tmsimg.com/assets/p14130628_b_h9_af.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260626210000 +0530" stop="20260626213000 +0530" channel="dishtv142641">
+    <title lang="en">Bhabi ji Ghar Par Hai!</title>
+    <desc lang="en">In an intoxicated state, Vibhuti tells Bhoorey Lal that he has caused Angoori to get pregnant. Later, Ammaji reveals her plot.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://dtil.tmsimg.com/assets/p14130628_b_h9_af.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260626213000 +0530" stop="20260626223000 +0530" channel="dishtv142641">
+    <title lang="en">Laal Ishq</title>
+    <desc lang="en">A selfish Jaggu gets transported to the world of deception upon opening the magical gift and a beast hounds him. Soon, he takes the crazy man's advice and plays the illusory game to get out of there.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://dtil.tmsimg.com/assets/p15638579_b_h9_aa.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260626223000 +0530" stop="20260626233000 +0530" channel="dishtv142641">
+    <title lang="en">Laal Ishq</title>
+    <desc lang="en">Vaibhav from the Archaeology Department finds a magical pot and the pot's spirit lures him by promising to fulfil his wishes. But, for every wish he fulfils, he kills one of Vaibhav's family members.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://dtil.tmsimg.com/assets/p15638579_b_h9_aa.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260626233000 +0530" stop="20260627010000 +0530" channel="dishtv142641">
+    <title lang="en">Paramavatar Shri Krishna</title>
+    <desc lang="en">Lord Krishna, once a naughty little child, grows up and embarks on a number of adventures to fight and eradicate evil forces and provide justice to all.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://dtil.tmsimg.com/assets/p14306001_b_h9_aa.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260627010000 +0530" stop="20260627020000 +0530" channel="dishtv142641">
+    <title lang="en">Vighnaharta Ganesh</title>
+    <desc lang="en">Although Ganesh is brought to life by Mahadev, Parvati declines him as her son since she feels he is unrecognisable. Afterwards, Mahadev apprises Ganesh of his identity.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://dtil.tmsimg.com/assets/p14471825_b_h9_ab.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260627020000 +0530" stop="20260627030000 +0530" channel="dishtv142641">
+    <title lang="en">Bhabi ji Ghar Par Hai!</title>
+    <desc lang="en">Angoori accidentally bumps into Saxena while going to a shop. Vibhuti slaps Saxena in order to impress Angoori; Saxena sneaks into Sharma House and beats up Manmohan instead of Vibhuti.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://dtil.tmsimg.com/assets/p14130628_b_h9_af.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260627030000 +0530" stop="20260627033000 +0530" channel="dishtv142641">
+    <title lang="en">Happu Ki Ultan Paltan</title>
+    <desc lang="en">Happu engages Rajjo in conversation but Rajjo soon realises that something is burning. She turns to discover that she had left the hot iron on Ammaji's sari, damaging it beyond repair.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://dtil.tmsimg.com/assets/p16695595_b_h9_ae.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260627033000 +0530" stop="20260627040000 +0530" channel="dishtv142641">
+    <title lang="en">Happu Ki Ultan Paltan</title>
+    <desc lang="en">Rajesh fears informing Amma about her burnt favorite saree. Meanwhile, Happu receives orders from the Commissioner to apprehend the thief who stole her chain.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://dtil.tmsimg.com/assets/p16695595_b_h9_ae.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260627040000 +0530" stop="20260627043000 +0530" channel="dishtv142641">
+    <title lang="en">Bhabi ji Ghar Par Hai!</title>
+    <desc lang="en">Vibhuti tries to help Angoori win the challenge by stealing supplies from his own house and keeping it in Angoori's refrigerator. Later, Manmohan learns that Anita has decided to challenge Vibhuti.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://dtil.tmsimg.com/assets/p14130628_b_h9_af.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260627043000 +0530" stop="20260627053000 +0530" channel="dishtv142641">
+    <title lang="en">Bhabi ji Ghar Par Hai!</title>
+    <desc lang="en">Anita fumes at Happu for carrying rifle to hunt an innocent animal.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://dtil.tmsimg.com/assets/p14130628_b_h9_af.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260625053000 +0530" stop="20260625060000 +0530" channel="dishtv142495">
+    <title lang="en">Recorded News</title>
+    <desc lang="en">The host provides comprehensive coverage of the day's top socio-economic and political stories shaping the world around you.</desc>
+    <category lang="en">News</category>
+    <icon src="https://dtil.tmsimg.com/assets/p29109038_b_h9_ab.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260625060000 +0530" stop="20260625063000 +0530" channel="dishtv142495">
+    <title lang="en">Nonstop 90</title>
+    <desc lang="en">The host talks about the latest and most important socio-economic and political news, updates and developments of the day.</desc>
+    <category lang="en">News</category>
+    <icon src="https://dtil.tmsimg.com/assets/p29109009_b_h9_ab.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260625063000 +0530" stop="20260625070000 +0530" channel="dishtv142495">
+    <title lang="en">Recorded News</title>
+    <desc lang="en">The host provides comprehensive coverage of the day's top socio-economic and political stories shaping the world around you.</desc>
+    <category lang="en">News</category>
+    <icon src="https://dtil.tmsimg.com/assets/p29109038_b_h9_ab.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260625070000 +0530" stop="20260625073000 +0530" channel="dishtv142495">
+    <title lang="en">Talk of the Town</title>
+    <desc lang="en">The host gives the latest news updates on the political, socio-economical and cultural situation in the country.</desc>
+    <category lang="en">News</category>
+    <icon src="https://dtil.tmsimg.com/assets/p27674050_b_h9_aa.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260625073000 +0530" stop="20260625080000 +0530" channel="dishtv142495">
+    <title lang="en">Recorded News</title>
+    <desc lang="en">The host provides comprehensive coverage of the day's top socio-economic and political stories shaping the world around you.</desc>
+    <category lang="en">News</category>
+    <icon src="https://dtil.tmsimg.com/assets/p29109038_b_h9_ab.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260625080000 +0530" stop="20260625083000 +0530" channel="dishtv142495">
+    <title lang="en">Patas News</title>
+    <desc lang="en">The host presents a satirical report of the latest news stories about political, social, economic and cultural topics from around the region.</desc>
+    <category lang="en">News</category>
+    <icon src="https://dtil.tmsimg.com/assets/p29109013_b_h9_ab.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260625083000 +0530" stop="20260625090000 +0530" channel="dishtv142495">
+    <title lang="en">Recorded News</title>
+    <desc lang="en">The host provides comprehensive coverage of the day's top socio-economic and political stories shaping the world around you.</desc>
+    <category lang="en">News</category>
+    <icon src="https://dtil.tmsimg.com/assets/p29109038_b_h9_ab.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260625090000 +0530" stop="20260625093000 +0530" channel="dishtv142495">
+    <title lang="en">Special Focus</title>
+    <desc lang="en">The host presents an in-depth analysis of important political and economic news stories that impact the lives of common citizens.</desc>
+    <category lang="en">News</category>
+    <icon src="https://dtil.tmsimg.com/assets/p29109072_b_h9_ac.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260625093000 +0530" stop="20260625100000 +0530" channel="dishtv142495">
+    <title lang="en">Recorded News</title>
+    <desc lang="en">The host provides comprehensive coverage of the day's top socio-economic and political stories shaping the world around you.</desc>
+    <category lang="en">News</category>
+    <icon src="https://dtil.tmsimg.com/assets/p29109038_b_h9_ab.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260625100000 +0530" stop="20260625103000 +0530" channel="dishtv142495">
+    <title lang="en">10 Max</title>
+    <desc lang="en">The host presents the latest news, updates and developments from the entertainment industry and informs movie buffs of the freshest celebrity gossip.</desc>
+    <category lang="en">News</category>
+    <icon src="https://dtil.tmsimg.com/assets/p29108747_b_h9_aa.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260625103000 +0530" stop="20260625110000 +0530" channel="dishtv142495">
+    <title lang="en">Recorded News</title>
+    <desc lang="en">The host provides comprehensive coverage of the day's top socio-economic and political stories shaping the world around you.</desc>
+    <category lang="en">News</category>
+    <icon src="https://dtil.tmsimg.com/assets/p29109038_b_h9_ab.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260625110000 +0530" stop="20260625113000 +0530" channel="dishtv142495">
+    <title lang="en">Patas News</title>
+    <desc lang="en">The host presents a satirical report of the latest news stories about political, social, economic and cultural topics from around the region.</desc>
+    <category lang="en">News</category>
+    <icon src="https://dtil.tmsimg.com/assets/p29109013_b_h9_ab.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260625113000 +0530" stop="20260625120000 +0530" channel="dishtv142495">
+    <title lang="en">6 AM News</title>
+    <desc lang="en">The host presents the latest news pertaining to areas like politics, socioeconomic issues and developments and current affairs during the early hours of the morning.</desc>
+    <category lang="en">News</category>
+    <icon src="https://dtil.tmsimg.com/assets/p29108863_b_h9_ad.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260625120000 +0530" stop="20260625123000 +0530" channel="dishtv142495">
+    <title lang="en">Matti Manishi</title>
+    <desc lang="en">The host meets various farmers across Telangana and sheds light on their success stories in the field of agriculture and animal husbandry.</desc>
+    <category lang="en">News</category>
+    <icon src="https://dtil.tmsimg.com/assets/p29108993_b_h9_ab.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260625123000 +0530" stop="20260625125000 +0530" channel="dishtv142495">
+    <title lang="en">7 AM News</title>
+    <desc lang="en">The host presents information about the social, economic and political issues of the day and provides updates on current events.</desc>
+    <category lang="en">News</category>
+    <icon src="https://dtil.tmsimg.com/assets/p9331212_b_h9_aa.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260625125000 +0530" stop="20260625130000 +0530" channel="dishtv142495">
+    <title lang="en">Good News</title>
+    <desc lang="en">The hosts shed light on the latest amusing, positive and inspirational news and invite various individuals to discuss their success and achievements.</desc>
+    <category lang="en">News</category>
+    <icon src="https://dtil.tmsimg.com/assets/p29108958_b_h9_ab.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260625130000 +0530" stop="20260625133000 +0530" channel="dishtv142495">
+    <title lang="en">Special Focus</title>
+    <desc lang="en">The host presents an in-depth analysis of important political and economic news stories that impact the lives of common citizens.</desc>
+    <category lang="en">News</category>
+    <icon src="https://dtil.tmsimg.com/assets/p29109072_b_h9_ac.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260625133000 +0530" stop="20260625140000 +0530" channel="dishtv142495">
+    <title lang="en">Super fast 100</title>
+    <desc lang="en">The host presents the top 100 news updates on politics, business, entertainment, science, sports and crime in quick succession.</desc>
+    <category lang="en">News</category>
+    <icon src="https://dtil.tmsimg.com/assets/p29109143_b_h9_ab.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260625140000 +0530" stop="20260625142700 +0530" channel="dishtv142495">
+    <title lang="en">Patas News</title>
+    <desc lang="en">The host presents a satirical report of the latest news stories about political, social, economic and cultural topics from around the region.</desc>
+    <category lang="en">News</category>
+    <icon src="https://dtil.tmsimg.com/assets/p29109013_b_h9_ab.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260625142700 +0530" stop="20260625143000 +0530" channel="dishtv142495">
+    <title lang="en">2 Minutes 12 Headlines</title>
+    <desc lang="en">The host delivers twelve key headlines covering topics like governance, social issues, economics, sports, and politics, all within a concise two-minute segment.</desc>
+    <category lang="en">News</category>
+    <icon src="https://dtil.tmsimg.com/assets/p29108819_b_h9_ab.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260625143000 +0530" stop="20260625150000 +0530" channel="dishtv142495">
+    <title lang="en">9 AM News</title>
+    <desc lang="en">The host sheds light on the latest news, updates and developments ranging across diverse issues happening around the country.</desc>
+    <category lang="en">News</category>
+    <icon src="https://dtil.tmsimg.com/assets/p29108907_b_h9_ac.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260625150000 +0530" stop="20260625152700 +0530" channel="dishtv142495">
+    <title lang="en">10 Max</title>
+    <desc lang="en">The host presents the latest news, updates and developments from the entertainment industry and informs movie buffs of the freshest celebrity gossip.</desc>
+    <category lang="en">News</category>
+    <icon src="https://dtil.tmsimg.com/assets/p29108747_b_h9_aa.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260625152700 +0530" stop="20260625153000 +0530" channel="dishtv142495">
+    <title lang="en">2 Minutes 12 Headlines</title>
+    <desc lang="en">The host delivers twelve key headlines covering topics like governance, social issues, economics, sports, and politics, all within a concise two-minute segment.</desc>
+    <category lang="en">News</category>
+    <icon src="https://dtil.tmsimg.com/assets/p29108819_b_h9_ab.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260625153000 +0530" stop="20260625160000 +0530" channel="dishtv142495">
+    <title lang="en">10 AM News</title>
+    <desc lang="en">The host provides a detailed analysis on the latest developments and updates on key issues across various frameworks affecting the region.</desc>
+    <category lang="en">News</category>
+    <icon src="https://dtil.tmsimg.com/assets/p28730951_b_h9_ac.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260625160000 +0530" stop="20260625162700 +0530" channel="dishtv142495">
+    <title lang="en">Adrustam Live</title>
+    <desc lang="en">An eminent astrologer provides insight and guidance regarding horoscopes and makes predictions for the various zodiac signs, live.</desc>
+    <category lang="en">News</category>
+    <icon src="https://dtil.tmsimg.com/assets/p30047123_b_h9_ac.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260625162700 +0530" stop="20260625163000 +0530" channel="dishtv142495">
+    <title lang="en">2 Minutes 12 Headlines</title>
+    <desc lang="en">The host delivers twelve key headlines covering topics like governance, social issues, economics, sports, and politics, all within a concise two-minute segment.</desc>
+    <category lang="en">News</category>
+    <icon src="https://dtil.tmsimg.com/assets/p29108819_b_h9_ab.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260625163000 +0530" stop="20260625170000 +0530" channel="dishtv142495">
+    <title lang="en">11 AM News</title>
+    <desc lang="en">The host presents the latest social, political and economic news updates and speaks about the recent developments from around the world.</desc>
+    <category lang="en">News</category>
+    <icon src="https://dtil.tmsimg.com/assets/p29110570_b_h9_ad.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260625170000 +0530" stop="20260625172700 +0530" channel="dishtv142495">
+    <title lang="en">Special / News</title>
+    <desc lang="en">A reporter sheds light on a topic or issue that is in the national news; the host presents some of the latest updates, current affairs and developments.</desc>
+    <category lang="en">News</category>
+    <icon src="https://dtil.tmsimg.com/assets/p29249205_b_h9_ab.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260625172700 +0530" stop="20260625173000 +0530" channel="dishtv142495">
+    <title lang="en">2 Minutes 12 Headlines</title>
+    <desc lang="en">The host delivers twelve key headlines covering topics like governance, social issues, economics, sports, and politics, all within a concise two-minute segment.</desc>
+    <category lang="en">News</category>
+    <icon src="https://dtil.tmsimg.com/assets/p29108819_b_h9_ab.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260625173000 +0530" stop="20260625180000 +0530" channel="dishtv142495">
+    <title lang="en">12 PM News &amp; World-20</title>
+    <desc lang="en">The presenter shares the top 20 relevant updates in rapid succession on current affairs transpiring from across the world.</desc>
+    <category lang="en">News</category>
+    <icon src="https://dtil.tmsimg.com/assets/p29108781_b_h9_ac.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260625180000 +0530" stop="20260625182700 +0530" channel="dishtv142495">
+    <title lang="en">Gossips Garage</title>
+    <desc lang="en">The host delivers an in-depth report on major political developments and the latest gossip surrounding politicians and their parties.</desc>
+    <category lang="en">News</category>
+    <icon src="https://dtil.tmsimg.com/assets/p29108969_b_h9_ac.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260625182700 +0530" stop="20260625183000 +0530" channel="dishtv142495">
+    <title lang="en">2 Minutes 12 Headlines</title>
+    <desc lang="en">The host delivers twelve key headlines covering topics like governance, social issues, economics, sports, and politics, all within a concise two-minute segment.</desc>
+    <category lang="en">News</category>
+    <icon src="https://dtil.tmsimg.com/assets/p29108819_b_h9_ab.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260625183000 +0530" stop="20260625193000 +0530" channel="dishtv142495">
+    <title lang="en">Lunch Hour News</title>
+    <desc lang="en">The host offers fresh insights into recent developments and provides viewers with a comprehensive overview of emerging trends.</desc>
+    <category lang="en">News</category>
+    <icon src="https://dtil.tmsimg.com/assets/p29108976_b_h9_ab.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260625193000 +0530" stop="20260625200000 +0530" channel="dishtv142495">
+    <title lang="en">WLD-NAT-ET-20</title>
+    <desc lang="en">Bringing the best in television.</desc>
+    <category lang="en">News</category>
+    <icon src="https://dtil.tmsimg.com/assets/p29109186_b_h9_ab.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260625200000 +0530" stop="20260625202700 +0530" channel="dishtv142495">
+    <title lang="en">Special Focus</title>
+    <desc lang="en">The host presents an in-depth analysis of important political and economic news stories that impact the lives of common citizens.</desc>
+    <category lang="en">News</category>
+    <icon src="https://dtil.tmsimg.com/assets/p29109072_b_h9_ac.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260625202700 +0530" stop="20260625203000 +0530" channel="dishtv142495">
+    <title lang="en">2 Minutes 12 Headlines</title>
+    <desc lang="en">The host delivers twelve key headlines covering topics like governance, social issues, economics, sports, and politics, all within a concise two-minute segment.</desc>
+    <category lang="en">News</category>
+    <icon src="https://dtil.tmsimg.com/assets/p29108819_b_h9_ab.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260625203000 +0530" stop="20260625210000 +0530" channel="dishtv142495">
+    <title lang="en">3 PM News &amp; National-20</title>
+    <desc lang="en">The host presents information about the social, economic and political issues of the day and provides updates on current events.</desc>
+    <category lang="en">News</category>
+    <icon src="https://dtil.tmsimg.com/assets/p29108829_b_h9_ac.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260625210000 +0530" stop="20260625212700 +0530" channel="dishtv142495">
+    <title lang="en">Special / Talk Of The Town</title>
+    <desc lang="en">The host talks about the ever-evolving Tollywood film industry, including latest news about upcoming films, actors and events.</desc>
+    <category lang="en">News</category>
+    <icon src="https://dtil.tmsimg.com/assets/p31668943_b_h9_aa.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260625212700 +0530" stop="20260625213000 +0530" channel="dishtv142495">
+    <title lang="en">2 Minutes 12 Headlines</title>
+    <desc lang="en">The host delivers twelve key headlines covering topics like governance, social issues, economics, sports, and politics, all within a concise two-minute segment.</desc>
+    <category lang="en">News</category>
+    <icon src="https://dtil.tmsimg.com/assets/p29108819_b_h9_ab.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260625213000 +0530" stop="20260625220000 +0530" channel="dishtv142495">
+    <title lang="en">4 PM News</title>
+    <desc lang="en">The host sheds light on the most recent news and updates on diverse issues that range from local and international politics, sports, education, science and technology prevailing across the globe.</desc>
+    <category lang="en">News</category>
+    <icon src="https://dtil.tmsimg.com/assets/p29110601_b_h9_ad.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260625220000 +0530" stop="20260625222700 +0530" channel="dishtv142495">
+    <title lang="en">Mana Ooru Mana Vartalu</title>
+    <desc lang="en">The host presents an analysis of various small businesses run by women and further highlights the obstacles they faced on the path to success.</desc>
+    <category lang="en">News</category>
+    <icon src="https://dtil.tmsimg.com/assets/p24467875_b_h9_aa.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260625222700 +0530" stop="20260625223000 +0530" channel="dishtv142495">
+    <title lang="en">2 Minutes 12 Headlines</title>
+    <desc lang="en">The host delivers twelve key headlines covering topics like governance, social issues, economics, sports, and politics, all within a concise two-minute segment.</desc>
+    <category lang="en">News</category>
+    <icon src="https://dtil.tmsimg.com/assets/p29108819_b_h9_ab.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260625223000 +0530" stop="20260625230000 +0530" channel="dishtv142495">
+    <title lang="en">5 PM News</title>
+    <desc lang="en">The host talks about the latest and most important socio-economic and political news, updates and developments making headlines.</desc>
+    <category lang="en">News</category>
+    <icon src="https://dtil.tmsimg.com/assets/p29110614_b_h9_ad.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260625230000 +0530" stop="20260625232700 +0530" channel="dishtv142495">
+    <title lang="en">Special Debate</title>
+    <desc lang="en">Renowned experts discuss various social, political and economic issues impacting society and analyse the government measures taken to tackle them.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://dtil.tmsimg.com/assets/p13915131_b_h9_aa.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260625232700 +0530" stop="20260626000000 +0530" channel="dishtv142495">
+    <title lang="en">Top 10</title>
+    <desc lang="en">The host presents the top ten latest developments pertaining to the current affairs, social, economic and cultural updates of the day.</desc>
+    <category lang="en">News</category>
+    <icon src="https://dtil.tmsimg.com/assets/p29341221_b_h9_aa.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260626000000 +0530" stop="20260626003000 +0530" channel="dishtv142495">
+    <title lang="en">Talk of the Town</title>
+    <desc lang="en">The host gives the latest news updates on the political, socio-economical and cultural situation in the country.</desc>
+    <category lang="en">News</category>
+    <icon src="https://dtil.tmsimg.com/assets/p27674050_b_h9_aa.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260626003000 +0530" stop="20260626010000 +0530" channel="dishtv142495">
+    <title lang="en">Prime Time Debate / Solid News</title>
+    <desc lang="en">The host invites a panel of guests to engage in a debate on various pressing matters; the host presents the latest news updates from around the state and the nation.</desc>
+    <category lang="en">News</category>
+    <icon src="https://dtil.tmsimg.com/assets/p29109025_b_h9_ab.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260626010000 +0530" stop="20260626012700 +0530" channel="dishtv142495">
+    <title lang="en">Gossips Garage</title>
+    <desc lang="en">The host delivers an in-depth report on major political developments and the latest gossip surrounding politicians and their parties.</desc>
+    <category lang="en">News</category>
+    <icon src="https://dtil.tmsimg.com/assets/p29108969_b_h9_ac.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260626012700 +0530" stop="20260626020000 +0530" channel="dishtv142495">
+    <title lang="en">8 PM 360 Degrees</title>
+    <desc lang="en">The host presents a comprehensive compilation of updates, developments and current affairs that have a significant impact on the lives of people.</desc>
+    <category lang="en">News</category>
+    <icon src="https://dtil.tmsimg.com/assets/p29249165_b_h9_ac.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260626020000 +0530" stop="20260626022700 +0530" channel="dishtv142495">
+    <title lang="en">Patas News</title>
+    <desc lang="en">The host presents a satirical report of the latest news stories about political, social, economic and cultural topics from around the region.</desc>
+    <category lang="en">News</category>
+    <icon src="https://dtil.tmsimg.com/assets/p29109013_b_h9_ab.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260626022700 +0530" stop="20260626030000 +0530" channel="dishtv142495">
+    <title lang="en">Nonstop 90</title>
+    <desc lang="en">The host talks about the latest and most important socio-economic and political news, updates and developments of the day.</desc>
+    <category lang="en">News</category>
+    <icon src="https://dtil.tmsimg.com/assets/p29109009_b_h9_ab.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260626030000 +0530" stop="20260626032700 +0530" channel="dishtv142495">
+    <title lang="en">Special Focus</title>
+    <desc lang="en">The host presents an in-depth analysis of important political and economic news stories that impact the lives of common citizens.</desc>
+    <category lang="en">News</category>
+    <icon src="https://dtil.tmsimg.com/assets/p29109072_b_h9_ac.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260626032700 +0530" stop="20260626040000 +0530" channel="dishtv142495">
+    <title lang="en">FIR</title>
+    <desc lang="en">The host sheds light on some of the most horrifying crimes that took place in the country and tries to understand the mentality of the criminals.</desc>
+    <category lang="en">News</category>
+    <icon src="https://dtil.tmsimg.com/assets/p29108952_b_h9_aa.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260626040000 +0530" stop="20260626042700 +0530" channel="dishtv142495">
+    <title lang="en">10 Max</title>
+    <desc lang="en">The host presents the latest news, updates and developments from the entertainment industry and informs movie buffs of the freshest celebrity gossip.</desc>
+    <category lang="en">News</category>
+    <icon src="https://dtil.tmsimg.com/assets/p29108747_b_h9_aa.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260626042700 +0530" stop="20260626050000 +0530" channel="dishtv142495">
+    <title lang="en">10 Tv News</title>
+    <desc lang="en">The host presents the latest political and socio-economic news and provides current updates from the sports and entertainment industry.</desc>
+    <category lang="en">News</category>
+    <icon src="https://dtil.tmsimg.com/assets/p29108757_b_h9_ac.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260626050000 +0530" stop="20260626053000 +0530" channel="dishtv142495">
+    <title lang="en">Gossips Garage</title>
+    <desc lang="en">The host delivers an in-depth report on major political developments and the latest gossip surrounding politicians and their parties.</desc>
+    <category lang="en">News</category>
+    <icon src="https://dtil.tmsimg.com/assets/p29108969_b_h9_ac.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260626053000 +0530" stop="20260626060000 +0530" channel="dishtv142495">
+    <title lang="en">Recorded News</title>
+    <desc lang="en">The host provides comprehensive coverage of the day's top socio-economic and political stories shaping the world around you.</desc>
+    <category lang="en">News</category>
+    <icon src="https://dtil.tmsimg.com/assets/p29109038_b_h9_ab.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260626060000 +0530" stop="20260626063000 +0530" channel="dishtv142495">
+    <title lang="en">Nonstop 90</title>
+    <desc lang="en">The host talks about the latest and most important socio-economic and political news, updates and developments of the day.</desc>
+    <category lang="en">News</category>
+    <icon src="https://dtil.tmsimg.com/assets/p29109009_b_h9_ab.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260626063000 +0530" stop="20260626070000 +0530" channel="dishtv142495">
+    <title lang="en">Recorded News</title>
+    <desc lang="en">The host provides comprehensive coverage of the day's top socio-economic and political stories shaping the world around you.</desc>
+    <category lang="en">News</category>
+    <icon src="https://dtil.tmsimg.com/assets/p29109038_b_h9_ab.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260626070000 +0530" stop="20260626073000 +0530" channel="dishtv142495">
+    <title lang="en">Talk of the Town</title>
+    <desc lang="en">The host gives the latest news updates on the political, socio-economical and cultural situation in the country.</desc>
+    <category lang="en">News</category>
+    <icon src="https://dtil.tmsimg.com/assets/p27674050_b_h9_aa.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260626073000 +0530" stop="20260626080000 +0530" channel="dishtv142495">
+    <title lang="en">Recorded News</title>
+    <desc lang="en">The host provides comprehensive coverage of the day's top socio-economic and political stories shaping the world around you.</desc>
+    <category lang="en">News</category>
+    <icon src="https://dtil.tmsimg.com/assets/p29109038_b_h9_ab.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260626080000 +0530" stop="20260626083000 +0530" channel="dishtv142495">
+    <title lang="en">Patas News</title>
+    <desc lang="en">The host presents a satirical report of the latest news stories about political, social, economic and cultural topics from around the region.</desc>
+    <category lang="en">News</category>
+    <icon src="https://dtil.tmsimg.com/assets/p29109013_b_h9_ab.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260626083000 +0530" stop="20260626090000 +0530" channel="dishtv142495">
+    <title lang="en">Recorded News</title>
+    <desc lang="en">The host provides comprehensive coverage of the day's top socio-economic and political stories shaping the world around you.</desc>
+    <category lang="en">News</category>
+    <icon src="https://dtil.tmsimg.com/assets/p29109038_b_h9_ab.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260626090000 +0530" stop="20260626093000 +0530" channel="dishtv142495">
+    <title lang="en">Special Focus</title>
+    <desc lang="en">The host presents an in-depth analysis of important political and economic news stories that impact the lives of common citizens.</desc>
+    <category lang="en">News</category>
+    <icon src="https://dtil.tmsimg.com/assets/p29109072_b_h9_ac.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260626093000 +0530" stop="20260626100000 +0530" channel="dishtv142495">
+    <title lang="en">Recorded News</title>
+    <desc lang="en">The host provides comprehensive coverage of the day's top socio-economic and political stories shaping the world around you.</desc>
+    <category lang="en">News</category>
+    <icon src="https://dtil.tmsimg.com/assets/p29109038_b_h9_ab.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260626100000 +0530" stop="20260626103000 +0530" channel="dishtv142495">
+    <title lang="en">10 Max</title>
+    <desc lang="en">The host presents the latest news, updates and developments from the entertainment industry and informs movie buffs of the freshest celebrity gossip.</desc>
+    <category lang="en">News</category>
+    <icon src="https://dtil.tmsimg.com/assets/p29108747_b_h9_aa.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260626103000 +0530" stop="20260626110000 +0530" channel="dishtv142495">
+    <title lang="en">Recorded News</title>
+    <desc lang="en">The host provides comprehensive coverage of the day's top socio-economic and political stories shaping the world around you.</desc>
+    <category lang="en">News</category>
+    <icon src="https://dtil.tmsimg.com/assets/p29109038_b_h9_ab.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260626110000 +0530" stop="20260626113000 +0530" channel="dishtv142495">
+    <title lang="en">Patas News</title>
+    <desc lang="en">The host presents a satirical report of the latest news stories about political, social, economic and cultural topics from around the region.</desc>
+    <category lang="en">News</category>
+    <icon src="https://dtil.tmsimg.com/assets/p29109013_b_h9_ab.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260626113000 +0530" stop="20260626120000 +0530" channel="dishtv142495">
+    <title lang="en">6 AM News</title>
+    <desc lang="en">The host presents the latest news pertaining to areas like politics, socioeconomic issues and developments and current affairs during the early hours of the morning.</desc>
+    <category lang="en">News</category>
+    <icon src="https://dtil.tmsimg.com/assets/p29108863_b_h9_ad.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260626120000 +0530" stop="20260626123000 +0530" channel="dishtv142495">
+    <title lang="en">Matti Manishi</title>
+    <desc lang="en">The host meets various farmers across Telangana and sheds light on their success stories in the field of agriculture and animal husbandry.</desc>
+    <category lang="en">News</category>
+    <icon src="https://dtil.tmsimg.com/assets/p29108993_b_h9_ab.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260626123000 +0530" stop="20260626125000 +0530" channel="dishtv142495">
+    <title lang="en">7 AM News</title>
+    <desc lang="en">The host presents information about the social, economic and political issues of the day and provides updates on current events.</desc>
+    <category lang="en">News</category>
+    <icon src="https://dtil.tmsimg.com/assets/p9331212_b_h9_aa.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260626125000 +0530" stop="20260626130000 +0530" channel="dishtv142495">
+    <title lang="en">Good News</title>
+    <desc lang="en">The hosts shed light on the latest amusing, positive and inspirational news and invite various individuals to discuss their success and achievements.</desc>
+    <category lang="en">News</category>
+    <icon src="https://dtil.tmsimg.com/assets/p29108958_b_h9_ab.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260626130000 +0530" stop="20260626133000 +0530" channel="dishtv142495">
+    <title lang="en">Special Focus</title>
+    <desc lang="en">The host presents an in-depth analysis of important political and economic news stories that impact the lives of common citizens.</desc>
+    <category lang="en">News</category>
+    <icon src="https://dtil.tmsimg.com/assets/p29109072_b_h9_ac.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260626133000 +0530" stop="20260626140000 +0530" channel="dishtv142495">
+    <title lang="en">Super fast 100</title>
+    <desc lang="en">The host presents the top 100 news updates on politics, business, entertainment, science, sports and crime in quick succession.</desc>
+    <category lang="en">News</category>
+    <icon src="https://dtil.tmsimg.com/assets/p29109143_b_h9_ab.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260626140000 +0530" stop="20260626142700 +0530" channel="dishtv142495">
+    <title lang="en">Patas News</title>
+    <desc lang="en">The host presents a satirical report of the latest news stories about political, social, economic and cultural topics from around the region.</desc>
+    <category lang="en">News</category>
+    <icon src="https://dtil.tmsimg.com/assets/p29109013_b_h9_ab.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260626142700 +0530" stop="20260626143000 +0530" channel="dishtv142495">
+    <title lang="en">2 Minutes 12 Headlines</title>
+    <desc lang="en">The host delivers twelve key headlines covering topics like governance, social issues, economics, sports, and politics, all within a concise two-minute segment.</desc>
+    <category lang="en">News</category>
+    <icon src="https://dtil.tmsimg.com/assets/p29108819_b_h9_ab.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260626143000 +0530" stop="20260626150000 +0530" channel="dishtv142495">
+    <title lang="en">9 AM News</title>
+    <desc lang="en">The host sheds light on the latest news, updates and developments ranging across diverse issues happening around the country.</desc>
+    <category lang="en">News</category>
+    <icon src="https://dtil.tmsimg.com/assets/p29108907_b_h9_ac.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260626150000 +0530" stop="20260626152700 +0530" channel="dishtv142495">
+    <title lang="en">10 Max</title>
+    <desc lang="en">The host presents the latest news, updates and developments from the entertainment industry and informs movie buffs of the freshest celebrity gossip.</desc>
+    <category lang="en">News</category>
+    <icon src="https://dtil.tmsimg.com/assets/p29108747_b_h9_aa.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260626152700 +0530" stop="20260626153000 +0530" channel="dishtv142495">
+    <title lang="en">2 Minutes 12 Headlines</title>
+    <desc lang="en">The host delivers twelve key headlines covering topics like governance, social issues, economics, sports, and politics, all within a concise two-minute segment.</desc>
+    <category lang="en">News</category>
+    <icon src="https://dtil.tmsimg.com/assets/p29108819_b_h9_ab.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260626153000 +0530" stop="20260626160000 +0530" channel="dishtv142495">
+    <title lang="en">10 AM News</title>
+    <desc lang="en">The host provides a detailed analysis on the latest developments and updates on key issues across various frameworks affecting the region.</desc>
+    <category lang="en">News</category>
+    <icon src="https://dtil.tmsimg.com/assets/p28730951_b_h9_ac.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260626160000 +0530" stop="20260626162700 +0530" channel="dishtv142495">
+    <title lang="en">Adrustam Live</title>
+    <desc lang="en">An eminent astrologer provides insight and guidance regarding horoscopes and makes predictions for the various zodiac signs, live.</desc>
+    <category lang="en">News</category>
+    <icon src="https://dtil.tmsimg.com/assets/p30047123_b_h9_ac.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260626162700 +0530" stop="20260626163000 +0530" channel="dishtv142495">
+    <title lang="en">2 Minutes 12 Headlines</title>
+    <desc lang="en">The host delivers twelve key headlines covering topics like governance, social issues, economics, sports, and politics, all within a concise two-minute segment.</desc>
+    <category lang="en">News</category>
+    <icon src="https://dtil.tmsimg.com/assets/p29108819_b_h9_ab.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260626163000 +0530" stop="20260626170000 +0530" channel="dishtv142495">
+    <title lang="en">11 AM News</title>
+    <desc lang="en">The host presents the latest social, political and economic news updates and speaks about the recent developments from around the world.</desc>
+    <category lang="en">News</category>
+    <icon src="https://dtil.tmsimg.com/assets/p29110570_b_h9_ad.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260626170000 +0530" stop="20260626172700 +0530" channel="dishtv142495">
+    <title lang="en">Special / News</title>
+    <desc lang="en">A reporter sheds light on a topic or issue that is in the national news; the host presents some of the latest updates, current affairs and developments.</desc>
+    <category lang="en">News</category>
+    <icon src="https://dtil.tmsimg.com/assets/p29249205_b_h9_ab.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260626172700 +0530" stop="20260626173000 +0530" channel="dishtv142495">
+    <title lang="en">2 Minutes 12 Headlines</title>
+    <desc lang="en">The host delivers twelve key headlines covering topics like governance, social issues, economics, sports, and politics, all within a concise two-minute segment.</desc>
+    <category lang="en">News</category>
+    <icon src="https://dtil.tmsimg.com/assets/p29108819_b_h9_ab.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260626173000 +0530" stop="20260626180000 +0530" channel="dishtv142495">
+    <title lang="en">12 PM News &amp; World-20</title>
+    <desc lang="en">The presenter shares the top 20 relevant updates in rapid succession on current affairs transpiring from across the world.</desc>
+    <category lang="en">News</category>
+    <icon src="https://dtil.tmsimg.com/assets/p29108781_b_h9_ac.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260626180000 +0530" stop="20260626182700 +0530" channel="dishtv142495">
+    <title lang="en">Gossips Garage</title>
+    <desc lang="en">The host delivers an in-depth report on major political developments and the latest gossip surrounding politicians and their parties.</desc>
+    <category lang="en">News</category>
+    <icon src="https://dtil.tmsimg.com/assets/p29108969_b_h9_ac.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260626182700 +0530" stop="20260626183000 +0530" channel="dishtv142495">
+    <title lang="en">2 Minutes 12 Headlines</title>
+    <desc lang="en">The host delivers twelve key headlines covering topics like governance, social issues, economics, sports, and politics, all within a concise two-minute segment.</desc>
+    <category lang="en">News</category>
+    <icon src="https://dtil.tmsimg.com/assets/p29108819_b_h9_ab.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260626183000 +0530" stop="20260626193000 +0530" channel="dishtv142495">
+    <title lang="en">Lunch Hour News</title>
+    <desc lang="en">The host offers fresh insights into recent developments and provides viewers with a comprehensive overview of emerging trends.</desc>
+    <category lang="en">News</category>
+    <icon src="https://dtil.tmsimg.com/assets/p29108976_b_h9_ab.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260626193000 +0530" stop="20260626200000 +0530" channel="dishtv142495">
+    <title lang="en">WLD-NAT-ET-20</title>
+    <desc lang="en">Bringing the best in television.</desc>
+    <category lang="en">News</category>
+    <icon src="https://dtil.tmsimg.com/assets/p29109186_b_h9_ab.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260626200000 +0530" stop="20260626202700 +0530" channel="dishtv142495">
+    <title lang="en">Special Focus</title>
+    <desc lang="en">The host presents an in-depth analysis of important political and economic news stories that impact the lives of common citizens.</desc>
+    <category lang="en">News</category>
+    <icon src="https://dtil.tmsimg.com/assets/p29109072_b_h9_ac.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260626202700 +0530" stop="20260626203000 +0530" channel="dishtv142495">
+    <title lang="en">2 Minutes 12 Headlines</title>
+    <desc lang="en">The host delivers twelve key headlines covering topics like governance, social issues, economics, sports, and politics, all within a concise two-minute segment.</desc>
+    <category lang="en">News</category>
+    <icon src="https://dtil.tmsimg.com/assets/p29108819_b_h9_ab.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260626203000 +0530" stop="20260626210000 +0530" channel="dishtv142495">
+    <title lang="en">3 PM News &amp; National-20</title>
+    <desc lang="en">The host presents information about the social, economic and political issues of the day and provides updates on current events.</desc>
+    <category lang="en">News</category>
+    <icon src="https://dtil.tmsimg.com/assets/p29108829_b_h9_ac.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260626210000 +0530" stop="20260626212700 +0530" channel="dishtv142495">
+    <title lang="en">Special / Talk Of The Town</title>
+    <desc lang="en">The host talks about the ever-evolving Tollywood film industry, including latest news about upcoming films, actors and events.</desc>
+    <category lang="en">News</category>
+    <icon src="https://dtil.tmsimg.com/assets/p31668943_b_h9_aa.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260626212700 +0530" stop="20260626213000 +0530" channel="dishtv142495">
+    <title lang="en">2 Minutes 12 Headlines</title>
+    <desc lang="en">The host delivers twelve key headlines covering topics like governance, social issues, economics, sports, and politics, all within a concise two-minute segment.</desc>
+    <category lang="en">News</category>
+    <icon src="https://dtil.tmsimg.com/assets/p29108819_b_h9_ab.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260626213000 +0530" stop="20260626220000 +0530" channel="dishtv142495">
+    <title lang="en">4 PM News</title>
+    <desc lang="en">The host sheds light on the most recent news and updates on diverse issues that range from local and international politics, sports, education, science and technology prevailing across the globe.</desc>
+    <category lang="en">News</category>
+    <icon src="https://dtil.tmsimg.com/assets/p29110601_b_h9_ad.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260626220000 +0530" stop="20260626222700 +0530" channel="dishtv142495">
+    <title lang="en">Mana Ooru Mana Vartalu</title>
+    <desc lang="en">The host presents an analysis of various small businesses run by women and further highlights the obstacles they faced on the path to success.</desc>
+    <category lang="en">News</category>
+    <icon src="https://dtil.tmsimg.com/assets/p24467875_b_h9_aa.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260626222700 +0530" stop="20260626223000 +0530" channel="dishtv142495">
+    <title lang="en">2 Minutes 12 Headlines</title>
+    <desc lang="en">The host delivers twelve key headlines covering topics like governance, social issues, economics, sports, and politics, all within a concise two-minute segment.</desc>
+    <category lang="en">News</category>
+    <icon src="https://dtil.tmsimg.com/assets/p29108819_b_h9_ab.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260626223000 +0530" stop="20260626230000 +0530" channel="dishtv142495">
+    <title lang="en">5 PM News</title>
+    <desc lang="en">The host talks about the latest and most important socio-economic and political news, updates and developments making headlines.</desc>
+    <category lang="en">News</category>
+    <icon src="https://dtil.tmsimg.com/assets/p29110614_b_h9_ad.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260626230000 +0530" stop="20260626232700 +0530" channel="dishtv142495">
+    <title lang="en">Special Debate</title>
+    <desc lang="en">Renowned experts discuss various social, political and economic issues impacting society and analyse the government measures taken to tackle them.</desc>
+    <category lang="en">TV Show</category>
+    <icon src="https://dtil.tmsimg.com/assets/p13915131_b_h9_aa.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260626232700 +0530" stop="20260627000000 +0530" channel="dishtv142495">
+    <title lang="en">Top 10</title>
+    <desc lang="en">The host presents the top ten latest developments pertaining to the current affairs, social, economic and cultural updates of the day.</desc>
+    <category lang="en">News</category>
+    <icon src="https://dtil.tmsimg.com/assets/p29341221_b_h9_aa.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260627000000 +0530" stop="20260627003000 +0530" channel="dishtv142495">
+    <title lang="en">Talk of the Town</title>
+    <desc lang="en">The host gives the latest news updates on the political, socio-economical and cultural situation in the country.</desc>
+    <category lang="en">News</category>
+    <icon src="https://dtil.tmsimg.com/assets/p27674050_b_h9_aa.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260627003000 +0530" stop="20260627010000 +0530" channel="dishtv142495">
+    <title lang="en">Prime Time Debate / Solid News</title>
+    <desc lang="en">The host invites a panel of guests to engage in a debate on various pressing matters; the host presents the latest news updates from around the state and the nation.</desc>
+    <category lang="en">News</category>
+    <icon src="https://dtil.tmsimg.com/assets/p29109025_b_h9_ab.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260627010000 +0530" stop="20260627012700 +0530" channel="dishtv142495">
+    <title lang="en">Gossips Garage</title>
+    <desc lang="en">The host delivers an in-depth report on major political developments and the latest gossip surrounding politicians and their parties.</desc>
+    <category lang="en">News</category>
+    <icon src="https://dtil.tmsimg.com/assets/p29108969_b_h9_ac.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260627012700 +0530" stop="20260627020000 +0530" channel="dishtv142495">
+    <title lang="en">8 PM 360 Degrees</title>
+    <desc lang="en">The host presents a comprehensive compilation of updates, developments and current affairs that have a significant impact on the lives of people.</desc>
+    <category lang="en">News</category>
+    <icon src="https://dtil.tmsimg.com/assets/p29249165_b_h9_ac.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260627020000 +0530" stop="20260627022700 +0530" channel="dishtv142495">
+    <title lang="en">Patas News</title>
+    <desc lang="en">The host presents a satirical report of the latest news stories about political, social, economic and cultural topics from around the region.</desc>
+    <category lang="en">News</category>
+    <icon src="https://dtil.tmsimg.com/assets/p29109013_b_h9_ab.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260627022700 +0530" stop="20260627030000 +0530" channel="dishtv142495">
+    <title lang="en">Nonstop 90</title>
+    <desc lang="en">The host talks about the latest and most important socio-economic and political news, updates and developments of the day.</desc>
+    <category lang="en">News</category>
+    <icon src="https://dtil.tmsimg.com/assets/p29109009_b_h9_ab.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260627030000 +0530" stop="20260627032700 +0530" channel="dishtv142495">
+    <title lang="en">Special Focus</title>
+    <desc lang="en">The host presents an in-depth analysis of important political and economic news stories that impact the lives of common citizens.</desc>
+    <category lang="en">News</category>
+    <icon src="https://dtil.tmsimg.com/assets/p29109072_b_h9_ac.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260627032700 +0530" stop="20260627040000 +0530" channel="dishtv142495">
+    <title lang="en">FIR</title>
+    <desc lang="en">The host sheds light on some of the most horrifying crimes that took place in the country and tries to understand the mentality of the criminals.</desc>
+    <category lang="en">News</category>
+    <icon src="https://dtil.tmsimg.com/assets/p29108952_b_h9_aa.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260627040000 +0530" stop="20260627042700 +0530" channel="dishtv142495">
+    <title lang="en">10 Max</title>
+    <desc lang="en">The host presents the latest news, updates and developments from the entertainment industry and informs movie buffs of the freshest celebrity gossip.</desc>
+    <category lang="en">News</category>
+    <icon src="https://dtil.tmsimg.com/assets/p29108747_b_h9_aa.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260627042700 +0530" stop="20260627050000 +0530" channel="dishtv142495">
+    <title lang="en">10 Tv News</title>
+    <desc lang="en">The host presents the latest political and socio-economic news and provides current updates from the sports and entertainment industry.</desc>
+    <category lang="en">News</category>
+    <icon src="https://dtil.tmsimg.com/assets/p29108757_b_h9_ac.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260627050000 +0530" stop="20260627053000 +0530" channel="dishtv142495">
+    <title lang="en">Gossips Garage</title>
+    <desc lang="en">The host delivers an in-depth report on major political developments and the latest gossip surrounding politicians and their parties.</desc>
+    <category lang="en">News</category>
+    <icon src="https://dtil.tmsimg.com/assets/p29108969_b_h9_ac.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260625053000 +0530" stop="20260625060000 +0530" channel="dishtv144431">
+    <title lang="en">Ja Bolbo Satti Bolbo</title>
+    <desc lang="en">The host sheds light on the latest news stories and significant updates from various fronts impacting people around the country.</desc>
+    <category lang="en">News</category>
+    <icon src="https://dtil.tmsimg.com/assets/p29971276_b_h9_ad.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260625060000 +0530" stop="20260625063000 +0530" channel="dishtv144431">
+    <title lang="en">Ja Bolbo Satti Bolbo</title>
+    <desc lang="en">The host sheds light on the latest news stories and significant updates from various fronts impacting people around the country.</desc>
+    <category lang="en">News</category>
+    <icon src="https://dtil.tmsimg.com/assets/p29971276_b_h9_ad.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260625063000 +0530" stop="20260625070000 +0530" channel="dishtv144431">
+    <title lang="en">Khabor Saradin</title>
+    <desc lang="en">The host presents some of the latest updates, current affairs and developments pertaining to economic, political and social issues.</desc>
+    <category lang="en">News</category>
+    <icon src="https://dtil.tmsimg.com/assets/p29158284_b_h9_ad.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260625070000 +0530" stop="20260625073000 +0530" channel="dishtv144431">
+    <title lang="en">Khabor Saradin</title>
+    <desc lang="en">The host presents some of the latest updates, current affairs and developments pertaining to economic, political and social issues.</desc>
+    <category lang="en">News</category>
+    <icon src="https://dtil.tmsimg.com/assets/p29158284_b_h9_ad.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260625073000 +0530" stop="20260625080000 +0530" channel="dishtv144431">
+    <title lang="en">Ja Bolbo Satti Bolbo</title>
+    <desc lang="en">The host sheds light on the latest news stories and significant updates from various fronts impacting people around the country.</desc>
+    <category lang="en">News</category>
+    <icon src="https://dtil.tmsimg.com/assets/p29971276_b_h9_ad.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260625080000 +0530" stop="20260625083000 +0530" channel="dishtv144431">
+    <title lang="en">Ja Bolbo Satti Bolbo</title>
+    <desc lang="en">The host sheds light on the latest news stories and significant updates from various fronts impacting people around the country.</desc>
+    <category lang="en">News</category>
+    <icon src="https://dtil.tmsimg.com/assets/p29971276_b_h9_ad.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260625083000 +0530" stop="20260625090000 +0530" channel="dishtv144431">
+    <title lang="en">Khabor Saradin</title>
+    <desc lang="en">The host presents some of the latest updates, current affairs and developments pertaining to economic, political and social issues.</desc>
+    <category lang="en">News</category>
+    <icon src="https://dtil.tmsimg.com/assets/p29158284_b_h9_ad.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260625090000 +0530" stop="20260625093000 +0530" channel="dishtv144431">
+    <title lang="en">Khabor Saradin</title>
+    <desc lang="en">The host presents some of the latest updates, current affairs and developments pertaining to economic, political and social issues.</desc>
+    <category lang="en">News</category>
+    <icon src="https://dtil.tmsimg.com/assets/p29158284_b_h9_ad.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260625093000 +0530" stop="20260625100000 +0530" channel="dishtv144431">
+    <title lang="en">Ja Bolbo Satti Bolbo</title>
+    <desc lang="en">The host sheds light on the latest news stories and significant updates from various fronts impacting people around the country.</desc>
+    <category lang="en">News</category>
+    <icon src="https://dtil.tmsimg.com/assets/p29971276_b_h9_ad.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260625100000 +0530" stop="20260625103000 +0530" channel="dishtv144431">
+    <title lang="en">Ja Bolbo Satti Bolbo</title>
+    <desc lang="en">The host sheds light on the latest news stories and significant updates from various fronts impacting people around the country.</desc>
+    <category lang="en">News</category>
+    <icon src="https://dtil.tmsimg.com/assets/p29971276_b_h9_ad.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260625103000 +0530" stop="20260625110000 +0530" channel="dishtv144431">
+    <title lang="en">Khabor Saradin</title>
+    <desc lang="en">The host presents some of the latest updates, current affairs and developments pertaining to economic, political and social issues.</desc>
+    <category lang="en">News</category>
+    <icon src="https://dtil.tmsimg.com/assets/p29158284_b_h9_ad.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260625110000 +0530" stop="20260625113000 +0530" channel="dishtv144431">
+    <title lang="en">Khabor Saradin</title>
+    <desc lang="en">The host presents some of the latest updates, current affairs and developments pertaining to economic, political and social issues.</desc>
+    <category lang="en">News</category>
+    <icon src="https://dtil.tmsimg.com/assets/p29158284_b_h9_ad.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260625113000 +0530" stop="20260625120000 +0530" channel="dishtv144431">
+    <title lang="en">Supravat Bangla</title>
+    <desc lang="en">The host presents a comprehensive and detailed coverage, elucidating on the latest news and developments from across the region.</desc>
+    <category lang="en">News</category>
+    <icon src="https://dtil.tmsimg.com/assets/p29971186_b_h9_ab.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260625120000 +0530" stop="20260625123000 +0530" channel="dishtv144431">
+    <title lang="en">Supravat Bangla</title>
+    <desc lang="en">The host presents a comprehensive and detailed coverage, elucidating on the latest news and developments from across the region.</desc>
+    <category lang="en">News</category>
+    <icon src="https://dtil.tmsimg.com/assets/p29971186_b_h9_ab.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260625123000 +0530" stop="20260625130000 +0530" channel="dishtv144431">
+    <title lang="en">Saat Sakal</title>
+    <desc lang="en">The host provides a comprehensive roundup of the week's top stories, covering political, social, economic and sports developments from India and around the globe.</desc>
+    <category lang="en">News</category>
+    <icon src="https://dtil.tmsimg.com/assets/p26429223_b_h9_aa.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260625130000 +0530" stop="20260625133000 +0530" channel="dishtv144431">
+    <title lang="en">Saat Sakal</title>
+    <desc lang="en">The host provides a comprehensive roundup of the week's top stories, covering political, social, economic and sports developments from India and around the globe.</desc>
+    <category lang="en">News</category>
+    <icon src="https://dtil.tmsimg.com/assets/p26429223_b_h9_aa.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260625133000 +0530" stop="20260625140000 +0530" channel="dishtv144431">
+    <title lang="en">Khabor Saradin</title>
+    <desc lang="en">The host presents some of the latest updates, current affairs and developments pertaining to economic, political and social issues.</desc>
+    <category lang="en">News</category>
+    <icon src="https://dtil.tmsimg.com/assets/p29158284_b_h9_ad.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260625140000 +0530" stop="20260625143000 +0530" channel="dishtv144431">
+    <title lang="en">Chatpat 24</title>
+    <desc lang="en">The host provides information on the social, political, economic and sports updates from all over the country and the world.</desc>
+    <category lang="en">News</category>
+    <icon src="https://dtil.tmsimg.com/assets/p29200565_b_h9_ac.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260625143000 +0530" stop="20260625150000 +0530" channel="dishtv144431">
+    <title lang="en">Khabor Saradin</title>
+    <desc lang="en">The host presents some of the latest updates, current affairs and developments pertaining to economic, political and social issues.</desc>
+    <category lang="en">News</category>
+    <icon src="https://dtil.tmsimg.com/assets/p29158284_b_h9_ad.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260625150000 +0530" stop="20260625153000 +0530" channel="dishtv144431">
+    <title lang="en">Khabor Saradin</title>
+    <desc lang="en">The host presents some of the latest updates, current affairs and developments pertaining to economic, political and social issues.</desc>
+    <category lang="en">News</category>
+    <icon src="https://dtil.tmsimg.com/assets/p29158284_b_h9_ad.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260625153000 +0530" stop="20260625160000 +0530" channel="dishtv144431">
+    <title lang="en">10 Ter News</title>
+    <desc lang="en">The host delivers the latest news stories and key updates on governance, social, economic, and political issues happening all over the world.</desc>
+    <category lang="en">News</category>
+    <icon src="https://dtil.tmsimg.com/assets/p29068315_b_h9_ac.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260625160000 +0530" stop="20260625163000 +0530" channel="dishtv144431">
+    <title lang="en">Khabor Saradin</title>
+    <desc lang="en">The host presents some of the latest updates, current affairs and developments pertaining to economic, political and social issues.</desc>
+    <category lang="en">News</category>
+    <icon src="https://dtil.tmsimg.com/assets/p29158284_b_h9_ad.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260625163000 +0530" stop="20260625170000 +0530" channel="dishtv144431">
+    <title lang="en">11 Ter Dunia</title>
+    <desc lang="en">The host presents information about the social, economic and political issues of the day and provides updates on current events.</desc>
+    <category lang="en">News</category>
+    <icon src="https://dtil.tmsimg.com/assets/p29068327_b_h9_ab.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260625170000 +0530" stop="20260625173000 +0530" channel="dishtv144431">
+    <title lang="en">Chatpat 24</title>
+    <desc lang="en">The host provides information on the social, political, economic and sports updates from all over the country and the world.</desc>
+    <category lang="en">News</category>
+    <icon src="https://dtil.tmsimg.com/assets/p29200565_b_h9_ac.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260625173000 +0530" stop="20260625180000 +0530" channel="dishtv144431">
+    <title lang="en">12 ter Baro Khabor</title>
+    <desc lang="en">The host presents the top 12 news updates concerning the political, social, economic and sports fronts from across the state and the nation.</desc>
+    <category lang="en">News</category>
+    <icon src="https://dtil.tmsimg.com/assets/p29971384_b_h9_ab.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260625180000 +0530" stop="20260625183000 +0530" channel="dishtv144431">
+    <title lang="en">12 ter Baro Khabor</title>
+    <desc lang="en">The host presents the top 12 news updates concerning the political, social, economic and sports fronts from across the state and the nation.</desc>
+    <category lang="en">News</category>
+    <icon src="https://dtil.tmsimg.com/assets/p29971384_b_h9_ab.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260625183000 +0530" stop="20260625190000 +0530" channel="dishtv144431">
+    <title lang="en">Dupurer Prime Time</title>
+    <desc lang="en">The host provides a comprehensive insight into the latest news, current affairs and key developments on a range of topics of national and global interest.</desc>
+    <category lang="en">News</category>
+    <icon src="https://dtil.tmsimg.com/assets/p28937427_b_h9_ac.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260625190000 +0530" stop="20260625193000 +0530" channel="dishtv144431">
+    <title lang="en">Chatpat 24</title>
+    <desc lang="en">The host provides information on the social, political, economic and sports updates from all over the country and the world.</desc>
+    <category lang="en">News</category>
+    <icon src="https://dtil.tmsimg.com/assets/p29200565_b_h9_ac.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260625193000 +0530" stop="20260625200000 +0530" channel="dishtv144431">
+    <title lang="en">Dutor Dunia</title>
+    <desc lang="en">The host presents the latest updates on news stories, current affairs and developments from around the country and the world.</desc>
+    <category lang="en">News</category>
+    <icon src="https://dtil.tmsimg.com/assets/p29971323_b_h9_ac.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260625200000 +0530" stop="20260625203000 +0530" channel="dishtv144431">
+    <title lang="en">Khabor Saradin</title>
+    <desc lang="en">The host presents some of the latest updates, current affairs and developments pertaining to economic, political and social issues.</desc>
+    <category lang="en">News</category>
+    <icon src="https://dtil.tmsimg.com/assets/p29158284_b_h9_ad.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260625203000 +0530" stop="20260625210000 +0530" channel="dishtv144431">
+    <title lang="en">Khabor Saradin</title>
+    <desc lang="en">The host presents some of the latest updates, current affairs and developments pertaining to economic, political and social issues.</desc>
+    <category lang="en">News</category>
+    <icon src="https://dtil.tmsimg.com/assets/p29158284_b_h9_ad.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260625210000 +0530" stop="20260625213000 +0530" channel="dishtv144431">
+    <title lang="en">Jelar Dupur</title>
+    <desc lang="en">The host presents the latest news updates from across various fronts and provides a detailed report on matters concerning the state and the nation.</desc>
+    <category lang="en">News</category>
+    <icon src="https://dtil.tmsimg.com/assets/p29068268_b_h9_ae.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260625213000 +0530" stop="20260625220000 +0530" channel="dishtv144431">
+    <title lang="en">Chatpat 24</title>
+    <desc lang="en">The host provides information on the social, political, economic and sports updates from all over the country and the world.</desc>
+    <category lang="en">News</category>
+    <icon src="https://dtil.tmsimg.com/assets/p29200565_b_h9_ac.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260625220000 +0530" stop="20260625223000 +0530" channel="dishtv144431">
+    <title lang="en">News Room Theke</title>
+    <desc lang="en">The host collates and presents some of the most important updates, trends and top stories that concern the public interest.</desc>
+    <category lang="en">News</category>
+    <icon src="https://dtil.tmsimg.com/assets/p29158328_b_h9_ad.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260625223000 +0530" stop="20260625230000 +0530" channel="dishtv144431">
+    <title lang="en">Panchter Panch</title>
+    <desc lang="en">The host presents the latest news stories and updates pertaining to various political and socio-economic issues around the country.</desc>
+    <category lang="en">News</category>
+    <icon src="https://dtil.tmsimg.com/assets/p29971240_b_h9_ac.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260625230000 +0530" stop="20260625233000 +0530" channel="dishtv144431">
+    <title lang="en">Panchter Panch</title>
+    <desc lang="en">The host presents the latest news stories and updates pertaining to various political and socio-economic issues around the country.</desc>
+    <category lang="en">News</category>
+    <icon src="https://dtil.tmsimg.com/assets/p29971240_b_h9_ac.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260625233000 +0530" stop="20260626000000 +0530" channel="dishtv144431">
+    <title lang="en">Kolkatar 6 show</title>
+    <desc lang="en">The host presents information about the social, economic and political issues of the day and provides updates on current events.</desc>
+    <category lang="en">News</category>
+    <icon src="https://dtil.tmsimg.com/assets/p29971255_b_h9_ad.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260626000000 +0530" stop="20260626003000 +0530" channel="dishtv144431">
+    <title lang="en">Special 24</title>
+    <desc lang="en">The host collates and presents the top twenty-four news updates, important developments and current affairs of the day in detail.</desc>
+    <category lang="en">News</category>
+    <icon src="https://dtil.tmsimg.com/assets/p29971202_b_h9_ac.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260626003000 +0530" stop="20260626010000 +0530" channel="dishtv144431">
+    <title lang="en">Viral News</title>
+    <desc lang="en">The host sheds light on the latest news stories and significant updates from various fronts impacting people around the country.</desc>
+    <category lang="en">News</category>
+    <icon src="https://dtil.tmsimg.com/assets/p29971170_b_h9_ad.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260626010000 +0530" stop="20260626013000 +0530" channel="dishtv144431">
+    <title lang="en">Ek Tana 24</title>
+    <desc lang="en">Bringing the best in television.</desc>
+    <category lang="en">News</category>
+    <icon src="https://dtil.tmsimg.com/assets/p29971299_b_h9_ab.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260626013000 +0530" stop="20260626020000 +0530" channel="dishtv144431">
+    <title lang="en">Bangla@8</title>
+    <desc lang="en">The host sheds light on the latest news stories and significant updates from various fronts impacting people around the country.</desc>
+    <category lang="en">News</category>
+    <icon src="https://dtil.tmsimg.com/assets/p29971345_b_h9_ac.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260626020000 +0530" stop="20260626023000 +0530" channel="dishtv144431">
+    <title lang="en">Bangla@8</title>
+    <desc lang="en">The host sheds light on the latest news stories and significant updates from various fronts impacting people around the country.</desc>
+    <category lang="en">News</category>
+    <icon src="https://dtil.tmsimg.com/assets/p29971345_b_h9_ac.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260626023000 +0530" stop="20260626030000 +0530" channel="dishtv144431">
+    <title lang="en">Ja Bolbo Satti Bolbo</title>
+    <desc lang="en">The host sheds light on the latest news stories and significant updates from various fronts impacting people around the country.</desc>
+    <category lang="en">News</category>
+    <icon src="https://dtil.tmsimg.com/assets/p29971276_b_h9_ad.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260626030000 +0530" stop="20260626033000 +0530" channel="dishtv144431">
+    <title lang="en">Ja Bolbo Satti Bolbo</title>
+    <desc lang="en">The host sheds light on the latest news stories and significant updates from various fronts impacting people around the country.</desc>
+    <category lang="en">News</category>
+    <icon src="https://dtil.tmsimg.com/assets/p29971276_b_h9_ad.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260626033000 +0530" stop="20260626040000 +0530" channel="dishtv144431">
+    <title lang="en">Jelar 24</title>
+    <desc lang="en">The host presents a detailed report on some of the most important news updates, developments and current affairs from across the state.</desc>
+    <category lang="en">News</category>
+    <icon src="https://dtil.tmsimg.com/assets/p29158260_b_h9_ab.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260626040000 +0530" stop="20260626043000 +0530" channel="dishtv144431">
+    <title lang="en">Viral News</title>
+    <desc lang="en">The host sheds light on the latest news stories and significant updates from various fronts impacting people around the country.</desc>
+    <category lang="en">News</category>
+    <icon src="https://dtil.tmsimg.com/assets/p29971170_b_h9_ad.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260626043000 +0530" stop="20260626050000 +0530" channel="dishtv144431">
+    <title lang="en">Shubharatri Bangla</title>
+    <desc lang="en">The host presents the latest updates pertaining to the socio-political and economic matters and current affairs of the day.</desc>
+    <category lang="en">News</category>
+    <icon src="https://dtil.tmsimg.com/assets/p29971218_b_h9_ad.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260626050000 +0530" stop="20260626053000 +0530" channel="dishtv144431">
+    <title lang="en">Shubharatri Bangla</title>
+    <desc lang="en">The host presents the latest updates pertaining to the socio-political and economic matters and current affairs of the day.</desc>
+    <category lang="en">News</category>
+    <icon src="https://dtil.tmsimg.com/assets/p29971218_b_h9_ad.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260626053000 +0530" stop="20260626060000 +0530" channel="dishtv144431">
+    <title lang="en">Ja Bolbo Satti Bolbo</title>
+    <desc lang="en">The host sheds light on the latest news stories and significant updates from various fronts impacting people around the country.</desc>
+    <category lang="en">News</category>
+    <icon src="https://dtil.tmsimg.com/assets/p29971276_b_h9_ad.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260626060000 +0530" stop="20260626063000 +0530" channel="dishtv144431">
+    <title lang="en">Ja Bolbo Satti Bolbo</title>
+    <desc lang="en">The host sheds light on the latest news stories and significant updates from various fronts impacting people around the country.</desc>
+    <category lang="en">News</category>
+    <icon src="https://dtil.tmsimg.com/assets/p29971276_b_h9_ad.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260626063000 +0530" stop="20260626070000 +0530" channel="dishtv144431">
+    <title lang="en">Khabor Saradin</title>
+    <desc lang="en">The host presents some of the latest updates, current affairs and developments pertaining to economic, political and social issues.</desc>
+    <category lang="en">News</category>
+    <icon src="https://dtil.tmsimg.com/assets/p29158284_b_h9_ad.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260626070000 +0530" stop="20260626073000 +0530" channel="dishtv144431">
+    <title lang="en">Khabor Saradin</title>
+    <desc lang="en">The host presents some of the latest updates, current affairs and developments pertaining to economic, political and social issues.</desc>
+    <category lang="en">News</category>
+    <icon src="https://dtil.tmsimg.com/assets/p29158284_b_h9_ad.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260626073000 +0530" stop="20260626080000 +0530" channel="dishtv144431">
+    <title lang="en">Ja Bolbo Satti Bolbo</title>
+    <desc lang="en">The host sheds light on the latest news stories and significant updates from various fronts impacting people around the country.</desc>
+    <category lang="en">News</category>
+    <icon src="https://dtil.tmsimg.com/assets/p29971276_b_h9_ad.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260626080000 +0530" stop="20260626083000 +0530" channel="dishtv144431">
+    <title lang="en">Ja Bolbo Satti Bolbo</title>
+    <desc lang="en">The host sheds light on the latest news stories and significant updates from various fronts impacting people around the country.</desc>
+    <category lang="en">News</category>
+    <icon src="https://dtil.tmsimg.com/assets/p29971276_b_h9_ad.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260626083000 +0530" stop="20260626090000 +0530" channel="dishtv144431">
+    <title lang="en">Khabor Saradin</title>
+    <desc lang="en">The host presents some of the latest updates, current affairs and developments pertaining to economic, political and social issues.</desc>
+    <category lang="en">News</category>
+    <icon src="https://dtil.tmsimg.com/assets/p29158284_b_h9_ad.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260626090000 +0530" stop="20260626093000 +0530" channel="dishtv144431">
+    <title lang="en">Khabor Saradin</title>
+    <desc lang="en">The host presents some of the latest updates, current affairs and developments pertaining to economic, political and social issues.</desc>
+    <category lang="en">News</category>
+    <icon src="https://dtil.tmsimg.com/assets/p29158284_b_h9_ad.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260626093000 +0530" stop="20260626100000 +0530" channel="dishtv144431">
+    <title lang="en">Ja Bolbo Satti Bolbo</title>
+    <desc lang="en">The host sheds light on the latest news stories and significant updates from various fronts impacting people around the country.</desc>
+    <category lang="en">News</category>
+    <icon src="https://dtil.tmsimg.com/assets/p29971276_b_h9_ad.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260626100000 +0530" stop="20260626103000 +0530" channel="dishtv144431">
+    <title lang="en">Ja Bolbo Satti Bolbo</title>
+    <desc lang="en">The host sheds light on the latest news stories and significant updates from various fronts impacting people around the country.</desc>
+    <category lang="en">News</category>
+    <icon src="https://dtil.tmsimg.com/assets/p29971276_b_h9_ad.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260626103000 +0530" stop="20260626110000 +0530" channel="dishtv144431">
+    <title lang="en">Khabor Saradin</title>
+    <desc lang="en">The host presents some of the latest updates, current affairs and developments pertaining to economic, political and social issues.</desc>
+    <category lang="en">News</category>
+    <icon src="https://dtil.tmsimg.com/assets/p29158284_b_h9_ad.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260626110000 +0530" stop="20260626113000 +0530" channel="dishtv144431">
+    <title lang="en">Khabor Saradin</title>
+    <desc lang="en">The host presents some of the latest updates, current affairs and developments pertaining to economic, political and social issues.</desc>
+    <category lang="en">News</category>
+    <icon src="https://dtil.tmsimg.com/assets/p29158284_b_h9_ad.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260626113000 +0530" stop="20260626120000 +0530" channel="dishtv144431">
+    <title lang="en">Supravat Bangla</title>
+    <desc lang="en">The host presents a comprehensive and detailed coverage, elucidating on the latest news and developments from across the region.</desc>
+    <category lang="en">News</category>
+    <icon src="https://dtil.tmsimg.com/assets/p29971186_b_h9_ab.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260626120000 +0530" stop="20260626123000 +0530" channel="dishtv144431">
+    <title lang="en">Supravat Bangla</title>
+    <desc lang="en">The host presents a comprehensive and detailed coverage, elucidating on the latest news and developments from across the region.</desc>
+    <category lang="en">News</category>
+    <icon src="https://dtil.tmsimg.com/assets/p29971186_b_h9_ab.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260626123000 +0530" stop="20260626130000 +0530" channel="dishtv144431">
+    <title lang="en">Saat Sakal</title>
+    <desc lang="en">The host provides a comprehensive roundup of the week's top stories, covering political, social, economic and sports developments from India and around the globe.</desc>
+    <category lang="en">News</category>
+    <icon src="https://dtil.tmsimg.com/assets/p26429223_b_h9_aa.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260626130000 +0530" stop="20260626133000 +0530" channel="dishtv144431">
+    <title lang="en">Saat Sakal</title>
+    <desc lang="en">The host provides a comprehensive roundup of the week's top stories, covering political, social, economic and sports developments from India and around the globe.</desc>
+    <category lang="en">News</category>
+    <icon src="https://dtil.tmsimg.com/assets/p26429223_b_h9_aa.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260626133000 +0530" stop="20260626140000 +0530" channel="dishtv144431">
+    <title lang="en">Khabor Saradin</title>
+    <desc lang="en">The host presents some of the latest updates, current affairs and developments pertaining to economic, political and social issues.</desc>
+    <category lang="en">News</category>
+    <icon src="https://dtil.tmsimg.com/assets/p29158284_b_h9_ad.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260626140000 +0530" stop="20260626143000 +0530" channel="dishtv144431">
+    <title lang="en">Chatpat 24</title>
+    <desc lang="en">The host provides information on the social, political, economic and sports updates from all over the country and the world.</desc>
+    <category lang="en">News</category>
+    <icon src="https://dtil.tmsimg.com/assets/p29200565_b_h9_ac.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260626143000 +0530" stop="20260626150000 +0530" channel="dishtv144431">
+    <title lang="en">Khabor Saradin</title>
+    <desc lang="en">The host presents some of the latest updates, current affairs and developments pertaining to economic, political and social issues.</desc>
+    <category lang="en">News</category>
+    <icon src="https://dtil.tmsimg.com/assets/p29158284_b_h9_ad.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260626150000 +0530" stop="20260626153000 +0530" channel="dishtv144431">
+    <title lang="en">Khabor Saradin</title>
+    <desc lang="en">The host presents some of the latest updates, current affairs and developments pertaining to economic, political and social issues.</desc>
+    <category lang="en">News</category>
+    <icon src="https://dtil.tmsimg.com/assets/p29158284_b_h9_ad.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260626153000 +0530" stop="20260626160000 +0530" channel="dishtv144431">
+    <title lang="en">10 Ter News</title>
+    <desc lang="en">The host delivers the latest news stories and key updates on governance, social, economic, and political issues happening all over the world.</desc>
+    <category lang="en">News</category>
+    <icon src="https://dtil.tmsimg.com/assets/p29068315_b_h9_ac.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260626160000 +0530" stop="20260626163000 +0530" channel="dishtv144431">
+    <title lang="en">Khabor Saradin</title>
+    <desc lang="en">The host presents some of the latest updates, current affairs and developments pertaining to economic, political and social issues.</desc>
+    <category lang="en">News</category>
+    <icon src="https://dtil.tmsimg.com/assets/p29158284_b_h9_ad.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260626163000 +0530" stop="20260626170000 +0530" channel="dishtv144431">
+    <title lang="en">11 Ter Dunia</title>
+    <desc lang="en">The host presents information about the social, economic and political issues of the day and provides updates on current events.</desc>
+    <category lang="en">News</category>
+    <icon src="https://dtil.tmsimg.com/assets/p29068327_b_h9_ab.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260626170000 +0530" stop="20260626173000 +0530" channel="dishtv144431">
+    <title lang="en">Chatpat 24</title>
+    <desc lang="en">The host provides information on the social, political, economic and sports updates from all over the country and the world.</desc>
+    <category lang="en">News</category>
+    <icon src="https://dtil.tmsimg.com/assets/p29200565_b_h9_ac.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260626173000 +0530" stop="20260626180000 +0530" channel="dishtv144431">
+    <title lang="en">12 ter Baro Khabor</title>
+    <desc lang="en">The host presents the top 12 news updates concerning the political, social, economic and sports fronts from across the state and the nation.</desc>
+    <category lang="en">News</category>
+    <icon src="https://dtil.tmsimg.com/assets/p29971384_b_h9_ab.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260626180000 +0530" stop="20260626183000 +0530" channel="dishtv144431">
+    <title lang="en">12 ter Baro Khabor</title>
+    <desc lang="en">The host presents the top 12 news updates concerning the political, social, economic and sports fronts from across the state and the nation.</desc>
+    <category lang="en">News</category>
+    <icon src="https://dtil.tmsimg.com/assets/p29971384_b_h9_ab.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260626183000 +0530" stop="20260626190000 +0530" channel="dishtv144431">
+    <title lang="en">Dupurer Prime Time</title>
+    <desc lang="en">The host provides a comprehensive insight into the latest news, current affairs and key developments on a range of topics of national and global interest.</desc>
+    <category lang="en">News</category>
+    <icon src="https://dtil.tmsimg.com/assets/p28937427_b_h9_ac.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260626190000 +0530" stop="20260626193000 +0530" channel="dishtv144431">
+    <title lang="en">Chatpat 24</title>
+    <desc lang="en">The host provides information on the social, political, economic and sports updates from all over the country and the world.</desc>
+    <category lang="en">News</category>
+    <icon src="https://dtil.tmsimg.com/assets/p29200565_b_h9_ac.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260626193000 +0530" stop="20260626200000 +0530" channel="dishtv144431">
+    <title lang="en">Dutor Dunia</title>
+    <desc lang="en">The host presents the latest updates on news stories, current affairs and developments from around the country and the world.</desc>
+    <category lang="en">News</category>
+    <icon src="https://dtil.tmsimg.com/assets/p29971323_b_h9_ac.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260626200000 +0530" stop="20260626203000 +0530" channel="dishtv144431">
+    <title lang="en">Khabor Saradin</title>
+    <desc lang="en">The host presents some of the latest updates, current affairs and developments pertaining to economic, political and social issues.</desc>
+    <category lang="en">News</category>
+    <icon src="https://dtil.tmsimg.com/assets/p29158284_b_h9_ad.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260626203000 +0530" stop="20260626210000 +0530" channel="dishtv144431">
+    <title lang="en">Khabor Saradin</title>
+    <desc lang="en">The host presents some of the latest updates, current affairs and developments pertaining to economic, political and social issues.</desc>
+    <category lang="en">News</category>
+    <icon src="https://dtil.tmsimg.com/assets/p29158284_b_h9_ad.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260626210000 +0530" stop="20260626213000 +0530" channel="dishtv144431">
+    <title lang="en">Jelar Dupur</title>
+    <desc lang="en">The host presents the latest news updates from across various fronts and provides a detailed report on matters concerning the state and the nation.</desc>
+    <category lang="en">News</category>
+    <icon src="https://dtil.tmsimg.com/assets/p29068268_b_h9_ae.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260626213000 +0530" stop="20260626220000 +0530" channel="dishtv144431">
+    <title lang="en">Chatpat 24</title>
+    <desc lang="en">The host provides information on the social, political, economic and sports updates from all over the country and the world.</desc>
+    <category lang="en">News</category>
+    <icon src="https://dtil.tmsimg.com/assets/p29200565_b_h9_ac.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260626220000 +0530" stop="20260626223000 +0530" channel="dishtv144431">
+    <title lang="en">News Room Theke</title>
+    <desc lang="en">The host collates and presents some of the most important updates, trends and top stories that concern the public interest.</desc>
+    <category lang="en">News</category>
+    <icon src="https://dtil.tmsimg.com/assets/p29158328_b_h9_ad.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260626223000 +0530" stop="20260626230000 +0530" channel="dishtv144431">
+    <title lang="en">Panchter Panch</title>
+    <desc lang="en">The host presents the latest news stories and updates pertaining to various political and socio-economic issues around the country.</desc>
+    <category lang="en">News</category>
+    <icon src="https://dtil.tmsimg.com/assets/p29971240_b_h9_ac.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260626230000 +0530" stop="20260626233000 +0530" channel="dishtv144431">
+    <title lang="en">Panchter Panch</title>
+    <desc lang="en">The host presents the latest news stories and updates pertaining to various political and socio-economic issues around the country.</desc>
+    <category lang="en">News</category>
+    <icon src="https://dtil.tmsimg.com/assets/p29971240_b_h9_ac.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260626233000 +0530" stop="20260627000000 +0530" channel="dishtv144431">
+    <title lang="en">Kolkatar 6 show</title>
+    <desc lang="en">The host presents information about the social, economic and political issues of the day and provides updates on current events.</desc>
+    <category lang="en">News</category>
+    <icon src="https://dtil.tmsimg.com/assets/p29971255_b_h9_ad.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260627000000 +0530" stop="20260627003000 +0530" channel="dishtv144431">
+    <title lang="en">Special 24</title>
+    <desc lang="en">The host collates and presents the top twenty-four news updates, important developments and current affairs of the day in detail.</desc>
+    <category lang="en">News</category>
+    <icon src="https://dtil.tmsimg.com/assets/p29971202_b_h9_ac.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260627003000 +0530" stop="20260627010000 +0530" channel="dishtv144431">
+    <title lang="en">Viral News</title>
+    <desc lang="en">The host sheds light on the latest news stories and significant updates from various fronts impacting people around the country.</desc>
+    <category lang="en">News</category>
+    <icon src="https://dtil.tmsimg.com/assets/p29971170_b_h9_ad.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260627010000 +0530" stop="20260627013000 +0530" channel="dishtv144431">
+    <title lang="en">Ek Tana 24</title>
+    <desc lang="en">Bringing the best in television.</desc>
+    <category lang="en">News</category>
+    <icon src="https://dtil.tmsimg.com/assets/p29971299_b_h9_ab.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260627013000 +0530" stop="20260627020000 +0530" channel="dishtv144431">
+    <title lang="en">Bangla@8</title>
+    <desc lang="en">The host sheds light on the latest news stories and significant updates from various fronts impacting people around the country.</desc>
+    <category lang="en">News</category>
+    <icon src="https://dtil.tmsimg.com/assets/p29971345_b_h9_ac.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260627020000 +0530" stop="20260627023000 +0530" channel="dishtv144431">
+    <title lang="en">Bangla@8</title>
+    <desc lang="en">The host sheds light on the latest news stories and significant updates from various fronts impacting people around the country.</desc>
+    <category lang="en">News</category>
+    <icon src="https://dtil.tmsimg.com/assets/p29971345_b_h9_ac.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260627023000 +0530" stop="20260627030000 +0530" channel="dishtv144431">
+    <title lang="en">Ja Bolbo Satti Bolbo</title>
+    <desc lang="en">The host sheds light on the latest news stories and significant updates from various fronts impacting people around the country.</desc>
+    <category lang="en">News</category>
+    <icon src="https://dtil.tmsimg.com/assets/p29971276_b_h9_ad.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260627030000 +0530" stop="20260627033000 +0530" channel="dishtv144431">
+    <title lang="en">Ja Bolbo Satti Bolbo</title>
+    <desc lang="en">The host sheds light on the latest news stories and significant updates from various fronts impacting people around the country.</desc>
+    <category lang="en">News</category>
+    <icon src="https://dtil.tmsimg.com/assets/p29971276_b_h9_ad.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260627033000 +0530" stop="20260627040000 +0530" channel="dishtv144431">
+    <title lang="en">Jelar 24</title>
+    <desc lang="en">The host presents a detailed report on some of the most important news updates, developments and current affairs from across the state.</desc>
+    <category lang="en">News</category>
+    <icon src="https://dtil.tmsimg.com/assets/p29158260_b_h9_ab.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260627040000 +0530" stop="20260627043000 +0530" channel="dishtv144431">
+    <title lang="en">Viral News</title>
+    <desc lang="en">The host sheds light on the latest news stories and significant updates from various fronts impacting people around the country.</desc>
+    <category lang="en">News</category>
+    <icon src="https://dtil.tmsimg.com/assets/p29971170_b_h9_ad.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260627043000 +0530" stop="20260627050000 +0530" channel="dishtv144431">
+    <title lang="en">Shubharatri Bangla</title>
+    <desc lang="en">The host presents the latest updates pertaining to the socio-political and economic matters and current affairs of the day.</desc>
+    <category lang="en">News</category>
+    <icon src="https://dtil.tmsimg.com/assets/p29971218_b_h9_ad.jpg?lock=880x660"/>
+  </programme>
+  <programme start="20260627050000 +0530" stop="20260627053000 +0530" channel="dishtv144431">
+    <title lang="en">Shubharatri Bangla</title>
+    <desc lang="en">The host presents the latest updates pertaining to the socio-political and economic matters and current affairs of the day.</desc>
+    <category lang="en">News</category>
+    <icon src="https://dtil.tmsimg.com/assets/p29971218_b_h9_ad.jpg?lock=880x660"/>
+  </programme>
+</tv>
